@@ -1,0 +1,7 @@
+python3.9
+python3.9-dev
+python3-pip
+build-essential
+libssl-dev
+libffi-dev
+python3-setuptools 

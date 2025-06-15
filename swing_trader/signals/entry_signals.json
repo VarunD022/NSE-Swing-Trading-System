@@ -1,0 +1,2866 @@
+[
+  {
+    "symbol": "360ONE",
+    "setup_type": "double_bottom",
+    "entry_price": 1140.5,
+    "stop_loss": 1042.7351760338588,
+    "target_1": 1238.2648239661412,
+    "target_2": 1287.1472359492116,
+    "timestamp": "2025-06-15 16:27:09"
+  },
+  {
+    "symbol": "360ONE",
+    "setup_type": "Composite Score",
+    "entry_price": 1140.5,
+    "stop_loss": 1042.7351760338588,
+    "target_1": 1238.2648239661412,
+    "target_2": 1287.1472359492116,
+    "timestamp": "2025-06-15 16:27:09"
+  },
+  {
+    "symbol": "63MOONS",
+    "setup_type": "double_top",
+    "entry_price": 923.75,
+    "stop_loss": 829.677747032657,
+    "target_1": 1017.822252967343,
+    "target_2": 1064.8583794510146,
+    "timestamp": "2025-06-15 16:27:10"
+  },
+  {
+    "symbol": "AARTECH",
+    "setup_type": "double_bottom",
+    "entry_price": 72.12999725341797,
+    "stop_loss": 63.93117964892676,
+    "target_1": 80.32881485790918,
+    "target_2": 84.42822366015479,
+    "timestamp": "2025-06-15 16:27:14"
+  },
+  {
+    "symbol": "AARTECH",
+    "setup_type": "Composite Score",
+    "entry_price": 72.12999725341797,
+    "stop_loss": 63.93117964892676,
+    "target_1": 80.32881485790918,
+    "target_2": 84.42822366015479,
+    "timestamp": "2025-06-15 16:27:14"
+  },
+  {
+    "symbol": "ABB",
+    "setup_type": "double_bottom",
+    "entry_price": 5999.0,
+    "stop_loss": 5726.322744367104,
+    "target_1": 6271.677255632896,
+    "target_2": 6408.015883449344,
+    "timestamp": "2025-06-15 16:27:22"
+  },
+  {
+    "symbol": "ABDL",
+    "setup_type": "double_bottom",
+    "entry_price": 423.3500061035156,
+    "stop_loss": 388.4272877853746,
+    "target_1": 458.2727244216567,
+    "target_2": 475.73408358072726,
+    "timestamp": "2025-06-15 16:27:24"
+  },
+  {
+    "symbol": "ABINFRA",
+    "setup_type": "double_bottom",
+    "entry_price": 146.8699951171875,
+    "stop_loss": 133.24116817404985,
+    "target_1": 160.49882206032515,
+    "target_2": 167.31323553189395,
+    "timestamp": "2025-06-15 16:27:25"
+  },
+  {
+    "symbol": "ABINFRA",
+    "setup_type": "Composite Score",
+    "entry_price": 146.8699951171875,
+    "stop_loss": 133.24116817404985,
+    "target_1": 160.49882206032515,
+    "target_2": 167.31323553189395,
+    "timestamp": "2025-06-15 16:27:25"
+  },
+  {
+    "symbol": "ABCAPITAL",
+    "setup_type": "double_bottom",
+    "entry_price": 240.3699951171875,
+    "stop_loss": 226.56809537190068,
+    "target_1": 254.17189486247432,
+    "target_2": 261.0728447351177,
+    "timestamp": "2025-06-15 16:27:25"
+  },
+  {
+    "symbol": "ABCAPITAL",
+    "setup_type": "Composite Score",
+    "entry_price": 240.3699951171875,
+    "stop_loss": 226.56809537190068,
+    "target_1": 254.17189486247432,
+    "target_2": 261.0728447351177,
+    "timestamp": "2025-06-15 16:27:26"
+  },
+  {
+    "symbol": "ABREL",
+    "setup_type": "double_top",
+    "entry_price": 2454.5,
+    "stop_loss": 2263.6692717785527,
+    "target_1": 2645.3307282214473,
+    "target_2": 2740.7460923321714,
+    "timestamp": "2025-06-15 16:27:27"
+  },
+  {
+    "symbol": "ABSLAMC",
+    "setup_type": "double_bottom",
+    "entry_price": 765.6500244140625,
+    "stop_loss": 715.1495782784341,
+    "target_1": 816.1504705496909,
+    "target_2": 841.4006936175051,
+    "timestamp": "2025-06-15 16:27:28"
+  },
+  {
+    "symbol": "ABSLAMC",
+    "setup_type": "Composite Score",
+    "entry_price": 765.6500244140625,
+    "stop_loss": 715.1495782784341,
+    "target_1": 816.1504705496909,
+    "target_2": 841.4006936175051,
+    "timestamp": "2025-06-15 16:27:28"
+  },
+  {
+    "symbol": "ACI",
+    "setup_type": "double_bottom",
+    "entry_price": 636.25,
+    "stop_loss": 593.9557294906565,
+    "target_1": 678.5442705093435,
+    "target_2": 699.6914057640153,
+    "timestamp": "2025-06-15 16:27:31"
+  },
+  {
+    "symbol": "ACLGATI",
+    "setup_type": "double_top",
+    "entry_price": 70.05000305175781,
+    "stop_loss": 64.2378286373528,
+    "target_1": 75.86217746616282,
+    "target_2": 78.76826467336534,
+    "timestamp": "2025-06-15 16:27:31"
+  },
+  {
+    "symbol": "ADFFOODS",
+    "setup_type": "double_bottom",
+    "entry_price": 277.80999755859375,
+    "stop_loss": 251.7552211227745,
+    "target_1": 303.864773994413,
+    "target_2": 316.89216221232266,
+    "timestamp": "2025-06-15 16:27:37"
+  },
+  {
+    "symbol": "ADFFOODS",
+    "setup_type": "Composite Score",
+    "entry_price": 277.80999755859375,
+    "stop_loss": 251.7552211227745,
+    "target_1": 303.864773994413,
+    "target_2": 316.89216221232266,
+    "timestamp": "2025-06-15 16:27:37"
+  },
+  {
+    "symbol": "ADANIPOWER",
+    "setup_type": "double_bottom",
+    "entry_price": 570.9000244140625,
+    "stop_loss": 530.3517612451683,
+    "target_1": 611.4482875829567,
+    "target_2": 631.7224191674038,
+    "timestamp": "2025-06-15 16:27:37"
+  },
+  {
+    "symbol": "ADANIPOWER",
+    "setup_type": "Composite Score",
+    "entry_price": 570.9000244140625,
+    "stop_loss": 530.3517612451683,
+    "target_1": 611.4482875829567,
+    "target_2": 631.7224191674038,
+    "timestamp": "2025-06-15 16:27:37"
+  },
+  {
+    "symbol": "ADVENZYMES",
+    "setup_type": "double_bottom",
+    "entry_price": 320.6000061035156,
+    "stop_loss": 298.8007187324337,
+    "target_1": 342.3992934745975,
+    "target_2": 353.29893716013845,
+    "timestamp": "2025-06-15 16:27:41"
+  },
+  {
+    "symbol": "ADVENZYMES",
+    "setup_type": "Composite Score",
+    "entry_price": 320.6000061035156,
+    "stop_loss": 298.8007187324337,
+    "target_1": 342.3992934745975,
+    "target_2": 353.29893716013845,
+    "timestamp": "2025-06-15 16:27:41"
+  },
+  {
+    "symbol": "AFFLE",
+    "setup_type": "double_bottom",
+    "entry_price": 1926.5,
+    "stop_loss": 1794.8391960052186,
+    "target_1": 2058.1608039947814,
+    "target_2": 2123.991205992172,
+    "timestamp": "2025-06-15 16:27:43"
+  },
+  {
+    "symbol": "AFFLE",
+    "setup_type": "Composite Score",
+    "entry_price": 1926.5,
+    "stop_loss": 1794.8391960052186,
+    "target_1": 2058.1608039947814,
+    "target_2": 2123.991205992172,
+    "timestamp": "2025-06-15 16:27:43"
+  },
+  {
+    "symbol": "AFCONS",
+    "setup_type": "double_bottom",
+    "entry_price": 440.8500061035156,
+    "stop_loss": 417.7363010006454,
+    "target_1": 463.9637112063858,
+    "target_2": 475.520563757821,
+    "timestamp": "2025-06-15 16:27:43"
+  },
+  {
+    "symbol": "AFSL",
+    "setup_type": "double_bottom",
+    "entry_price": 239.9600067138672,
+    "stop_loss": 215.59588759674375,
+    "target_1": 264.3241258309906,
+    "target_2": 276.50618538955234,
+    "timestamp": "2025-06-15 16:27:46"
+  },
+  {
+    "symbol": "AFSL",
+    "setup_type": "Composite Score",
+    "entry_price": 239.9600067138672,
+    "stop_loss": 215.59588759674375,
+    "target_1": 264.3241258309906,
+    "target_2": 276.50618538955234,
+    "timestamp": "2025-06-15 16:27:46"
+  },
+  {
+    "symbol": "AIIL",
+    "setup_type": "double_bottom",
+    "entry_price": 2448.800048828125,
+    "stop_loss": 2280.444776933578,
+    "target_1": 2617.155320722672,
+    "target_2": 2701.332956669946,
+    "timestamp": "2025-06-15 16:27:52"
+  },
+  {
+    "symbol": "AKUMS",
+    "setup_type": "double_bottom",
+    "entry_price": 572.2999877929688,
+    "stop_loss": 533.6140322415787,
+    "target_1": 610.9859433443588,
+    "target_2": 630.3289211200538,
+    "timestamp": "2025-06-15 16:28:03"
+  },
+  {
+    "symbol": "ALEMBICLTD",
+    "setup_type": "double_bottom",
+    "entry_price": 115.66000366210938,
+    "stop_loss": 108.29860529827126,
+    "target_1": 123.0214020259475,
+    "target_2": 126.70210120786656,
+    "timestamp": "2025-06-15 16:28:05"
+  },
+  {
+    "symbol": "ALEMBICLTD",
+    "setup_type": "Composite Score",
+    "entry_price": 115.66000366210938,
+    "stop_loss": 108.29860529827126,
+    "target_1": 123.0214020259475,
+    "target_2": 126.70210120786656,
+    "timestamp": "2025-06-15 16:28:05"
+  },
+  {
+    "symbol": "AMBER",
+    "setup_type": "double_bottom",
+    "entry_price": 6468.0,
+    "stop_loss": 6023.382062827781,
+    "target_1": 6912.617937172219,
+    "target_2": 7134.926905758329,
+    "timestamp": "2025-06-15 16:28:14"
+  },
+  {
+    "symbol": "ANANDRATHI",
+    "setup_type": "double_bottom",
+    "entry_price": 2013.0999755859375,
+    "stop_loss": 1902.2666891335703,
+    "target_1": 2123.9332620383047,
+    "target_2": 2179.3499052644884,
+    "timestamp": "2025-06-15 16:28:19"
+  },
+  {
+    "symbol": "ANANDRATHI",
+    "setup_type": "Composite Score",
+    "entry_price": 2013.0999755859375,
+    "stop_loss": 1902.2666891335703,
+    "target_1": 2123.9332620383047,
+    "target_2": 2179.3499052644884,
+    "timestamp": "2025-06-15 16:28:19"
+  },
+  {
+    "symbol": "ANDHRAPAP",
+    "setup_type": "double_bottom",
+    "entry_price": 79.77999877929688,
+    "stop_loss": 74.56277598455877,
+    "target_1": 84.99722157403498,
+    "target_2": 87.60583297140403,
+    "timestamp": "2025-06-15 16:28:19"
+  },
+  {
+    "symbol": "ANURAS",
+    "setup_type": "double_bottom",
+    "entry_price": 1117.4000244140625,
+    "stop_loss": 1044.8676725411938,
+    "target_1": 1189.9323762869312,
+    "target_2": 1226.1985522233656,
+    "timestamp": "2025-06-15 16:28:26"
+  },
+  {
+    "symbol": "ANURAS",
+    "setup_type": "Composite Score",
+    "entry_price": 1117.4000244140625,
+    "stop_loss": 1044.8676725411938,
+    "target_1": 1189.9323762869312,
+    "target_2": 1226.1985522233656,
+    "timestamp": "2025-06-15 16:28:26"
+  },
+  {
+    "symbol": "APARINDS",
+    "setup_type": "double_bottom",
+    "entry_price": 7895.5,
+    "stop_loss": 7302.697718169673,
+    "target_1": 8488.302281830327,
+    "target_2": 8784.70342274549,
+    "timestamp": "2025-06-15 16:28:28"
+  },
+  {
+    "symbol": "APEX",
+    "setup_type": "double_bottom",
+    "entry_price": 242.0,
+    "stop_loss": 224.4582242499479,
+    "target_1": 259.54177575005207,
+    "target_2": 268.31266362507813,
+    "timestamp": "2025-06-15 16:28:29"
+  },
+  {
+    "symbol": "APLLTD",
+    "setup_type": "double_bottom",
+    "entry_price": 999.0999755859375,
+    "stop_loss": 939.2646606252625,
+    "target_1": 1058.9352905466124,
+    "target_2": 1088.85294802695,
+    "timestamp": "2025-06-15 16:28:31"
+  },
+  {
+    "symbol": "APOLLO",
+    "setup_type": "double_bottom",
+    "entry_price": 194.02000427246094,
+    "stop_loss": 171.68243701592166,
+    "target_1": 216.3575715290002,
+    "target_2": 227.52635515726985,
+    "timestamp": "2025-06-15 16:28:32"
+  },
+  {
+    "symbol": "APOLLOHOSP",
+    "setup_type": "double_bottom",
+    "entry_price": 6994.5,
+    "stop_loss": 6750.391314874521,
+    "target_1": 7238.608685125479,
+    "target_2": 7360.663027688218,
+    "timestamp": "2025-06-15 16:28:33"
+  },
+  {
+    "symbol": "APOLLOPIPE",
+    "setup_type": "double_bottom",
+    "entry_price": 460.45001220703125,
+    "stop_loss": 415.0973348087689,
+    "target_1": 505.8026896052936,
+    "target_2": 528.4790283044248,
+    "timestamp": "2025-06-15 16:28:33"
+  },
+  {
+    "symbol": "ARIHANTCAP",
+    "setup_type": "double_bottom",
+    "entry_price": 78.68000030517578,
+    "stop_loss": 71.56685579677495,
+    "target_1": 85.79314481357662,
+    "target_2": 89.34971706777704,
+    "timestamp": "2025-06-15 16:28:40"
+  },
+  {
+    "symbol": "ARIHANTCAP",
+    "setup_type": "Composite Score",
+    "entry_price": 78.68000030517578,
+    "stop_loss": 71.56685579677495,
+    "target_1": 85.79314481357662,
+    "target_2": 89.34971706777704,
+    "timestamp": "2025-06-15 16:28:40"
+  },
+  {
+    "symbol": "ARKADE",
+    "setup_type": "double_bottom",
+    "entry_price": 191.1999969482422,
+    "stop_loss": 176.6204125632649,
+    "target_1": 205.77958133321948,
+    "target_2": 213.0693735257081,
+    "timestamp": "2025-06-15 16:28:41"
+  },
+  {
+    "symbol": "ARKADE",
+    "setup_type": "Composite Score",
+    "entry_price": 191.1999969482422,
+    "stop_loss": 176.6204125632649,
+    "target_1": 205.77958133321948,
+    "target_2": 213.0693735257081,
+    "timestamp": "2025-06-15 16:28:41"
+  },
+  {
+    "symbol": "ARVINDFASN",
+    "setup_type": "double_bottom",
+    "entry_price": 476.75,
+    "stop_loss": 441.561111918086,
+    "target_1": 511.938888081914,
+    "target_2": 529.533332122871,
+    "timestamp": "2025-06-15 16:28:46"
+  },
+  {
+    "symbol": "ASAHIINDIA",
+    "setup_type": "double_bottom",
+    "entry_price": 740.75,
+    "stop_loss": 688.6533762685527,
+    "target_1": 792.8466237314473,
+    "target_2": 818.8949355971708,
+    "timestamp": "2025-06-15 16:28:47"
+  },
+  {
+    "symbol": "ASHIANA",
+    "setup_type": "double_bottom",
+    "entry_price": 352.54998779296875,
+    "stop_loss": 329.37012388835245,
+    "target_1": 375.72985169758505,
+    "target_2": 387.3197836498932,
+    "timestamp": "2025-06-15 16:28:53"
+  },
+  {
+    "symbol": "ASIANENE",
+    "setup_type": "double_bottom",
+    "entry_price": 310.8500061035156,
+    "stop_loss": 283.18462776996626,
+    "target_1": 338.515384437065,
+    "target_2": 352.3480736038397,
+    "timestamp": "2025-06-15 16:28:57"
+  },
+  {
+    "symbol": "ASIANTILES",
+    "setup_type": "double_bottom",
+    "entry_price": 66.62000274658203,
+    "stop_loss": 60.392236769196934,
+    "target_1": 72.84776872396714,
+    "target_2": 75.96165171265967,
+    "timestamp": "2025-06-15 16:28:57"
+  },
+  {
+    "symbol": "ASIANTILES",
+    "setup_type": "Composite Score",
+    "entry_price": 66.62000274658203,
+    "stop_loss": 60.392236769196934,
+    "target_1": 72.84776872396714,
+    "target_2": 75.96165171265967,
+    "timestamp": "2025-06-15 16:28:57"
+  },
+  {
+    "symbol": "ASKAUTOLTD",
+    "setup_type": "double_bottom",
+    "entry_price": 453.1000061035156,
+    "stop_loss": 422.425527758228,
+    "target_1": 483.77448444880326,
+    "target_2": 499.1117236214471,
+    "timestamp": "2025-06-15 16:28:59"
+  },
+  {
+    "symbol": "ASTERDM",
+    "setup_type": "double_bottom",
+    "entry_price": 569.7000122070312,
+    "stop_loss": 531.9979882358269,
+    "target_1": 607.4020361782356,
+    "target_2": 626.2530481638378,
+    "timestamp": "2025-06-15 16:29:00"
+  },
+  {
+    "symbol": "ASTRAL",
+    "setup_type": "double_bottom",
+    "entry_price": 1528.0999755859375,
+    "stop_loss": 1447.9414223643273,
+    "target_1": 1608.2585288075477,
+    "target_2": 1648.3378054183527,
+    "timestamp": "2025-06-15 16:29:00"
+  },
+  {
+    "symbol": "ASTRAMICRO",
+    "setup_type": "double_bottom",
+    "entry_price": 1142.699951171875,
+    "stop_loss": 1034.367197101114,
+    "target_1": 1251.032705242636,
+    "target_2": 1305.1990822780165,
+    "timestamp": "2025-06-15 16:29:01"
+  },
+  {
+    "symbol": "AUBANK",
+    "setup_type": "double_bottom",
+    "entry_price": 768.5999755859375,
+    "stop_loss": 729.4750402591841,
+    "target_1": 807.7249109126909,
+    "target_2": 827.2873785760676,
+    "timestamp": "2025-06-15 16:29:10"
+  },
+  {
+    "symbol": "AUBANK",
+    "setup_type": "Composite Score",
+    "entry_price": 768.5999755859375,
+    "stop_loss": 729.4750402591841,
+    "target_1": 807.7249109126909,
+    "target_2": 827.2873785760676,
+    "timestamp": "2025-06-15 16:29:10"
+  },
+  {
+    "symbol": "AVANTEL",
+    "setup_type": "double_bottom",
+    "entry_price": 159.10000610351562,
+    "stop_loss": 139.6481835338821,
+    "target_1": 178.55182867314915,
+    "target_2": 188.2777399579659,
+    "timestamp": "2025-06-15 16:29:16"
+  },
+  {
+    "symbol": "AVANTEL",
+    "setup_type": "Composite Score",
+    "entry_price": 159.10000610351562,
+    "stop_loss": 139.6481835338821,
+    "target_1": 178.55182867314915,
+    "target_2": 188.2777399579659,
+    "timestamp": "2025-06-15 16:29:16"
+  },
+  {
+    "symbol": "AXISCADES",
+    "setup_type": "double_bottom",
+    "entry_price": 1159.4000244140625,
+    "stop_loss": 1038.7646847917165,
+    "target_1": 1280.0353640364085,
+    "target_2": 1340.3530338475816,
+    "timestamp": "2025-06-15 16:29:23"
+  },
+  {
+    "symbol": "AXISCADES",
+    "setup_type": "Composite Score",
+    "entry_price": 1159.4000244140625,
+    "stop_loss": 1038.7646847917165,
+    "target_1": 1280.0353640364085,
+    "target_2": 1340.3530338475816,
+    "timestamp": "2025-06-15 16:29:23"
+  },
+  {
+    "symbol": "AWHCL",
+    "setup_type": "double_bottom",
+    "entry_price": 624.6500244140625,
+    "stop_loss": 580.4461997291494,
+    "target_1": 668.8538490989756,
+    "target_2": 690.9557614414321,
+    "timestamp": "2025-06-15 16:29:23"
+  },
+  {
+    "symbol": "AXISBANK",
+    "setup_type": "double_bottom",
+    "entry_price": 1205.800048828125,
+    "stop_loss": 1158.9487963438314,
+    "target_1": 1252.6513013124186,
+    "target_2": 1276.0769275545654,
+    "timestamp": "2025-06-15 16:29:25"
+  },
+  {
+    "symbol": "AXISBANK",
+    "setup_type": "Composite Score",
+    "entry_price": 1205.800048828125,
+    "stop_loss": 1158.9487963438314,
+    "target_1": 1252.6513013124186,
+    "target_2": 1276.0769275545654,
+    "timestamp": "2025-06-15 16:29:25"
+  },
+  {
+    "symbol": "BAJAJCON",
+    "setup_type": "double_bottom",
+    "entry_price": 177.36000061035156,
+    "stop_loss": 167.52848144203622,
+    "target_1": 187.1915197786669,
+    "target_2": 192.10727936282458,
+    "timestamp": "2025-06-15 16:29:29"
+  },
+  {
+    "symbol": "BAJAJCON",
+    "setup_type": "Composite Score",
+    "entry_price": 177.36000061035156,
+    "stop_loss": 167.52848144203622,
+    "target_1": 187.1915197786669,
+    "target_2": 192.10727936282458,
+    "timestamp": "2025-06-15 16:29:29"
+  },
+  {
+    "symbol": "BAJAJINDEF",
+    "setup_type": "double_bottom",
+    "entry_price": 448.739990234375,
+    "stop_loss": 391.29087011687125,
+    "target_1": 506.18911035187875,
+    "target_2": 534.9136704106306,
+    "timestamp": "2025-06-15 16:29:34"
+  },
+  {
+    "symbol": "BAJAJINDEF",
+    "setup_type": "Composite Score",
+    "entry_price": 448.739990234375,
+    "stop_loss": 391.29087011687125,
+    "target_1": 506.18911035187875,
+    "target_2": 534.9136704106306,
+    "timestamp": "2025-06-15 16:29:34"
+  },
+  {
+    "symbol": "BAJEL",
+    "setup_type": "double_bottom",
+    "entry_price": 217.19000244140625,
+    "stop_loss": 198.73905129267558,
+    "target_1": 235.64095359013692,
+    "target_2": 244.86642916450225,
+    "timestamp": "2025-06-15 16:29:35"
+  },
+  {
+    "symbol": "BALAJITELE",
+    "setup_type": "double_top",
+    "entry_price": 91.94999694824219,
+    "stop_loss": 84.82538679053089,
+    "target_1": 99.07460710595349,
+    "target_2": 102.63691218480915,
+    "timestamp": "2025-06-15 16:29:37"
+  },
+  {
+    "symbol": "BAJFINANCE",
+    "setup_type": "double_bottom",
+    "entry_price": 933.0999755859375,
+    "stop_loss": 889.5417224672595,
+    "target_1": 976.6582287046155,
+    "target_2": 998.4373552639544,
+    "timestamp": "2025-06-15 16:29:37"
+  },
+  {
+    "symbol": "BAJFINANCE",
+    "setup_type": "Composite Score",
+    "entry_price": 933.0999755859375,
+    "stop_loss": 889.5417224672595,
+    "target_1": 976.6582287046155,
+    "target_2": 998.4373552639544,
+    "timestamp": "2025-06-15 16:29:37"
+  },
+  {
+    "symbol": "BALRAMCHIN",
+    "setup_type": "double_bottom",
+    "entry_price": 610.2999877929688,
+    "stop_loss": 577.2045807350077,
+    "target_1": 643.3953948509298,
+    "target_2": 659.9430983799105,
+    "timestamp": "2025-06-15 16:29:41"
+  },
+  {
+    "symbol": "BANCOINDIA",
+    "setup_type": "double_bottom",
+    "entry_price": 606.4500122070312,
+    "stop_loss": 549.4947429166074,
+    "target_1": 663.4052814974551,
+    "target_2": 691.8829161426671,
+    "timestamp": "2025-06-15 16:29:43"
+  },
+  {
+    "symbol": "BANCOINDIA",
+    "setup_type": "Composite Score",
+    "entry_price": 606.4500122070312,
+    "stop_loss": 549.4947429166074,
+    "target_1": 663.4052814974551,
+    "target_2": 691.8829161426671,
+    "timestamp": "2025-06-15 16:29:43"
+  },
+  {
+    "symbol": "BANDHANBNK",
+    "setup_type": "double_bottom",
+    "entry_price": 175.19000244140625,
+    "stop_loss": 164.2049414627294,
+    "target_1": 186.1750634200831,
+    "target_2": 191.66759390942153,
+    "timestamp": "2025-06-15 16:29:45"
+  },
+  {
+    "symbol": "BANDHANBNK",
+    "setup_type": "Composite Score",
+    "entry_price": 175.19000244140625,
+    "stop_loss": 164.2049414627294,
+    "target_1": 186.1750634200831,
+    "target_2": 191.66759390942153,
+    "timestamp": "2025-06-15 16:29:45"
+  },
+  {
+    "symbol": "BANKBARODA",
+    "setup_type": "double_bottom",
+    "entry_price": 239.22000122070312,
+    "stop_loss": 227.79397341530827,
+    "target_1": 250.64602902609798,
+    "target_2": 256.3590429287954,
+    "timestamp": "2025-06-15 16:29:48"
+  },
+  {
+    "symbol": "BANSALWIRE",
+    "setup_type": "double_bottom",
+    "entry_price": 381.3999938964844,
+    "stop_loss": 353.6813547437048,
+    "target_1": 409.11863304926396,
+    "target_2": 422.97795262565376,
+    "timestamp": "2025-06-15 16:29:48"
+  },
+  {
+    "symbol": "BARBEQUE",
+    "setup_type": "double_bottom",
+    "entry_price": 328.54998779296875,
+    "stop_loss": 298.3942686532606,
+    "target_1": 358.7057069326769,
+    "target_2": 373.7835665025309,
+    "timestamp": "2025-06-15 16:29:51"
+  },
+  {
+    "symbol": "BBOX",
+    "setup_type": "double_bottom",
+    "entry_price": 527.25,
+    "stop_loss": 479.8503618161889,
+    "target_1": 574.6496381838111,
+    "target_2": 598.3494572757166,
+    "timestamp": "2025-06-15 16:29:53"
+  },
+  {
+    "symbol": "BEML",
+    "setup_type": "double_bottom",
+    "entry_price": 4302.7001953125,
+    "stop_loss": 3934.9314271253693,
+    "target_1": 4670.468963499631,
+    "target_2": 4854.353347593196,
+    "timestamp": "2025-06-15 16:30:01"
+  },
+  {
+    "symbol": "BEL",
+    "setup_type": "double_bottom",
+    "entry_price": 394.20001220703125,
+    "stop_loss": 375.538049860078,
+    "target_1": 412.8619745539845,
+    "target_2": 422.1929557274612,
+    "timestamp": "2025-06-15 16:30:01"
+  },
+  {
+    "symbol": "BEL",
+    "setup_type": "Composite Score",
+    "entry_price": 394.20001220703125,
+    "stop_loss": 375.538049860078,
+    "target_1": 412.8619745539845,
+    "target_2": 422.1929557274612,
+    "timestamp": "2025-06-15 16:30:01"
+  },
+  {
+    "symbol": "BERGEPAINT",
+    "setup_type": "double_bottom",
+    "entry_price": 570.1500244140625,
+    "stop_loss": 537.7220490765836,
+    "target_1": 602.5779997515414,
+    "target_2": 618.7919874202809,
+    "timestamp": "2025-06-15 16:30:03"
+  },
+  {
+    "symbol": "BFUTILITIE",
+    "setup_type": "double_bottom",
+    "entry_price": 773.2000122070312,
+    "stop_loss": 709.9426043460228,
+    "target_1": 836.4574200680397,
+    "target_2": 868.0861239985439,
+    "timestamp": "2025-06-15 16:30:05"
+  },
+  {
+    "symbol": "BHAGCHEM",
+    "setup_type": "double_bottom",
+    "entry_price": 305.70001220703125,
+    "stop_loss": 283.0844566878613,
+    "target_1": 328.3155677262012,
+    "target_2": 339.6233454857862,
+    "timestamp": "2025-06-15 16:30:05"
+  },
+  {
+    "symbol": "BHARATFORG",
+    "setup_type": "double_bottom",
+    "entry_price": 1309.300048828125,
+    "stop_loss": 1238.1747114196185,
+    "target_1": 1380.4253862366315,
+    "target_2": 1415.988054940885,
+    "timestamp": "2025-06-15 16:30:07"
+  },
+  {
+    "symbol": "BHARATWIRE",
+    "setup_type": "double_bottom",
+    "entry_price": 208.9600067138672,
+    "stop_loss": 187.4502975030876,
+    "target_1": 230.46971592464678,
+    "target_2": 241.22457053003654,
+    "timestamp": "2025-06-15 16:30:10"
+  },
+  {
+    "symbol": "BHARTIHEXA",
+    "setup_type": "double_bottom",
+    "entry_price": 1783.9000244140625,
+    "stop_loss": 1652.9584821821172,
+    "target_1": 1914.8415666460078,
+    "target_2": 1980.3123377619804,
+    "timestamp": "2025-06-15 16:30:15"
+  },
+  {
+    "symbol": "BIOCON",
+    "setup_type": "double_bottom",
+    "entry_price": 355.3999938964844,
+    "stop_loss": 336.5516613982619,
+    "target_1": 374.24832639470685,
+    "target_2": 383.6724926438181,
+    "timestamp": "2025-06-15 16:30:17"
+  },
+  {
+    "symbol": "BIRLAMONEY",
+    "setup_type": "double_bottom",
+    "entry_price": 182.5500030517578,
+    "stop_loss": 165.12734732923946,
+    "target_1": 199.97265877427617,
+    "target_2": 208.68398663553535,
+    "timestamp": "2025-06-15 16:30:18"
+  },
+  {
+    "symbol": "BLAL",
+    "setup_type": "double_bottom",
+    "entry_price": 216.0,
+    "stop_loss": 199.79333799161074,
+    "target_1": 232.20666200838926,
+    "target_2": 240.30999301258387,
+    "timestamp": "2025-06-15 16:30:19"
+  },
+  {
+    "symbol": "BLISSGVS",
+    "setup_type": "double_bottom",
+    "entry_price": 149.3000030517578,
+    "stop_loss": 135.53970205307766,
+    "target_1": 163.06030405043796,
+    "target_2": 169.94045454977802,
+    "timestamp": "2025-06-15 16:30:21"
+  },
+  {
+    "symbol": "BLISSGVS",
+    "setup_type": "Composite Score",
+    "entry_price": 149.3000030517578,
+    "stop_loss": 135.53970205307766,
+    "target_1": 163.06030405043796,
+    "target_2": 169.94045454977802,
+    "timestamp": "2025-06-15 16:30:21"
+  },
+  {
+    "symbol": "BLUEJET",
+    "setup_type": "double_bottom",
+    "entry_price": 953.75,
+    "stop_loss": 873.220136126691,
+    "target_1": 1034.279863873309,
+    "target_2": 1074.5447958099635,
+    "timestamp": "2025-06-15 16:30:27"
+  },
+  {
+    "symbol": "BLUEJET",
+    "setup_type": "Composite Score",
+    "entry_price": 953.75,
+    "stop_loss": 873.220136126691,
+    "target_1": 1034.279863873309,
+    "target_2": 1074.5447958099635,
+    "timestamp": "2025-06-15 16:30:27"
+  },
+  {
+    "symbol": "BOMDYEING",
+    "setup_type": "double_bottom",
+    "entry_price": 152.6999969482422,
+    "stop_loss": 141.58540652567189,
+    "target_1": 163.8145873708125,
+    "target_2": 169.37188258209764,
+    "timestamp": "2025-06-15 16:30:29"
+  },
+  {
+    "symbol": "BORORENEW",
+    "setup_type": "double_bottom",
+    "entry_price": 557.2999877929688,
+    "stop_loss": 514.0027886901181,
+    "target_1": 600.5971868958194,
+    "target_2": 622.2457864472447,
+    "timestamp": "2025-06-15 16:30:31"
+  },
+  {
+    "symbol": "BRIGADE",
+    "setup_type": "double_bottom",
+    "entry_price": 1185.4000244140625,
+    "stop_loss": 1089.7414659167282,
+    "target_1": 1281.0585829113968,
+    "target_2": 1328.8878621600638,
+    "timestamp": "2025-06-15 16:30:33"
+  },
+  {
+    "symbol": "BRITANNIA",
+    "setup_type": "Composite Score",
+    "entry_price": 5570.0,
+    "stop_loss": 5346.737749113846,
+    "target_1": 5793.262250886154,
+    "target_2": 5904.893376329231,
+    "timestamp": "2025-06-15 16:30:33"
+  },
+  {
+    "symbol": "BSE",
+    "setup_type": "double_bottom",
+    "entry_price": 2711.199951171875,
+    "stop_loss": 2498.7007037136163,
+    "target_1": 2923.6991986301337,
+    "target_2": 3029.9488223592625,
+    "timestamp": "2025-06-15 16:30:36"
+  },
+  {
+    "symbol": "BSE",
+    "setup_type": "Composite Score",
+    "entry_price": 2711.199951171875,
+    "stop_loss": 2498.7007037136163,
+    "target_1": 2923.6991986301337,
+    "target_2": 3029.9488223592625,
+    "timestamp": "2025-06-15 16:30:36"
+  },
+  {
+    "symbol": "CAMLINFINE",
+    "setup_type": "double_bottom",
+    "entry_price": 302.1000061035156,
+    "stop_loss": 269.0201887986996,
+    "target_1": 335.17982340833163,
+    "target_2": 351.7197320607396,
+    "timestamp": "2025-06-15 16:30:44"
+  },
+  {
+    "symbol": "CAMLINFINE",
+    "setup_type": "Composite Score",
+    "entry_price": 302.1000061035156,
+    "stop_loss": 269.0201887986996,
+    "target_1": 335.17982340833163,
+    "target_2": 351.7197320607396,
+    "timestamp": "2025-06-15 16:30:45"
+  },
+  {
+    "symbol": "CANBK",
+    "setup_type": "double_bottom",
+    "entry_price": 111.45999908447266,
+    "stop_loss": 105.67483314278847,
+    "target_1": 117.24516502615684,
+    "target_2": 120.13774799699894,
+    "timestamp": "2025-06-15 16:30:45"
+  },
+  {
+    "symbol": "CANFINHOME",
+    "setup_type": "double_bottom",
+    "entry_price": 792.4500122070312,
+    "stop_loss": 750.7012391809083,
+    "target_1": 834.1987852331542,
+    "target_2": 855.0731717462156,
+    "timestamp": "2025-06-15 16:30:46"
+  },
+  {
+    "symbol": "CARRARO",
+    "setup_type": "double_bottom",
+    "entry_price": 450.04998779296875,
+    "stop_loss": 411.74907207658293,
+    "target_1": 488.35090350935457,
+    "target_2": 507.5013613675475,
+    "timestamp": "2025-06-15 16:30:49"
+  },
+  {
+    "symbol": "CARYSIL",
+    "setup_type": "double_bottom",
+    "entry_price": 929.1500244140625,
+    "stop_loss": 849.9065042628454,
+    "target_1": 1008.3935445652796,
+    "target_2": 1048.0153046408882,
+    "timestamp": "2025-06-15 16:30:53"
+  },
+  {
+    "symbol": "CDSL",
+    "setup_type": "double_bottom",
+    "entry_price": 1659.699951171875,
+    "stop_loss": 1536.134884339511,
+    "target_1": 1783.265018004239,
+    "target_2": 1845.0475514204209,
+    "timestamp": "2025-06-15 16:30:56"
+  },
+  {
+    "symbol": "CENTURYPLY",
+    "setup_type": "double_bottom",
+    "entry_price": 775.5999755859375,
+    "stop_loss": 724.4900051779196,
+    "target_1": 826.7099459939554,
+    "target_2": 852.2649311979643,
+    "timestamp": "2025-06-15 16:30:59"
+  },
+  {
+    "symbol": "CHOLAHLDNG",
+    "setup_type": "double_bottom",
+    "entry_price": 1998.4000244140625,
+    "stop_loss": 1848.7262755894074,
+    "target_1": 2148.073773238718,
+    "target_2": 2222.910647651045,
+    "timestamp": "2025-06-15 16:31:11"
+  },
+  {
+    "symbol": "CHOLAHLDNG",
+    "setup_type": "Composite Score",
+    "entry_price": 1998.4000244140625,
+    "stop_loss": 1848.7262755894074,
+    "target_1": 2148.073773238718,
+    "target_2": 2222.910647651045,
+    "timestamp": "2025-06-15 16:31:11"
+  },
+  {
+    "symbol": "CIEINDIA",
+    "setup_type": "double_bottom",
+    "entry_price": 453.70001220703125,
+    "stop_loss": 423.6269894183574,
+    "target_1": 483.7730349957051,
+    "target_2": 498.809546390042,
+    "timestamp": "2025-06-15 16:31:12"
+  },
+  {
+    "symbol": "CIGNITITEC",
+    "setup_type": "double_bottom",
+    "entry_price": 1661.5999755859375,
+    "stop_loss": 1555.5257911747954,
+    "target_1": 1767.6741599970796,
+    "target_2": 1820.7112522026507,
+    "timestamp": "2025-06-15 16:31:14"
+  },
+  {
+    "symbol": "CMSINFO",
+    "setup_type": "double_bottom",
+    "entry_price": 496.1499938964844,
+    "stop_loss": 468.454430414253,
+    "target_1": 523.8455573787157,
+    "target_2": 537.6933391198314,
+    "timestamp": "2025-06-15 16:31:18"
+  },
+  {
+    "symbol": "CLEDUCATE",
+    "setup_type": "double_bottom",
+    "entry_price": 93.70999908447266,
+    "stop_loss": 83.67789914792644,
+    "target_1": 103.74209902101887,
+    "target_2": 108.75814898929198,
+    "timestamp": "2025-06-15 16:31:19"
+  },
+  {
+    "symbol": "CLEAN",
+    "setup_type": "double_bottom",
+    "entry_price": 1469.699951171875,
+    "stop_loss": 1364.010150918546,
+    "target_1": 1575.389751425204,
+    "target_2": 1628.2346515518684,
+    "timestamp": "2025-06-15 16:31:19"
+  },
+  {
+    "symbol": "CLEAN",
+    "setup_type": "Composite Score",
+    "entry_price": 1469.699951171875,
+    "stop_loss": 1364.010150918546,
+    "target_1": 1575.389751425204,
+    "target_2": 1628.2346515518684,
+    "timestamp": "2025-06-15 16:31:19"
+  },
+  {
+    "symbol": "COCHINSHIP",
+    "setup_type": "double_bottom",
+    "entry_price": 2161.60009765625,
+    "stop_loss": 1910.9349405684964,
+    "target_1": 2412.2652547440034,
+    "target_2": 2537.5978332878803,
+    "timestamp": "2025-06-15 16:31:21"
+  },
+  {
+    "symbol": "COCHINSHIP",
+    "setup_type": "Composite Score",
+    "entry_price": 2161.60009765625,
+    "stop_loss": 1910.9349405684964,
+    "target_1": 2412.2652547440034,
+    "target_2": 2537.5978332878803,
+    "timestamp": "2025-06-15 16:31:21"
+  },
+  {
+    "symbol": "COFORGE",
+    "setup_type": "double_bottom",
+    "entry_price": 1792.5,
+    "stop_loss": 1687.7134916140049,
+    "target_1": 1897.2865083859951,
+    "target_2": 1949.679762578993,
+    "timestamp": "2025-06-15 16:31:23"
+  },
+  {
+    "symbol": "COMSYN",
+    "setup_type": "double_bottom",
+    "entry_price": 126.16000366210938,
+    "stop_loss": 113.29061292579911,
+    "target_1": 139.02939439841964,
+    "target_2": 145.46408976657477,
+    "timestamp": "2025-06-15 16:31:24"
+  },
+  {
+    "symbol": "COMSYN",
+    "setup_type": "Composite Score",
+    "entry_price": 126.16000366210938,
+    "stop_loss": 113.29061292579911,
+    "target_1": 139.02939439841964,
+    "target_2": 145.46408976657477,
+    "timestamp": "2025-06-15 16:31:24"
+  },
+  {
+    "symbol": "CONCORDBIO",
+    "setup_type": "double_bottom",
+    "entry_price": 2109.699951171875,
+    "stop_loss": 1943.472638770546,
+    "target_1": 2275.927263573204,
+    "target_2": 2359.0409197738686,
+    "timestamp": "2025-06-15 16:31:27"
+  },
+  {
+    "symbol": "CONCORDBIO",
+    "setup_type": "Composite Score",
+    "entry_price": 2109.699951171875,
+    "stop_loss": 1943.472638770546,
+    "target_1": 2275.927263573204,
+    "target_2": 2359.0409197738686,
+    "timestamp": "2025-06-15 16:31:27"
+  },
+  {
+    "symbol": "COSMOFIRST",
+    "setup_type": "double_bottom",
+    "entry_price": 1202.5999755859375,
+    "stop_loss": 1076.6273661008213,
+    "target_1": 1328.5725850710537,
+    "target_2": 1391.558889813612,
+    "timestamp": "2025-06-15 16:31:33"
+  },
+  {
+    "symbol": "CREDITACC",
+    "setup_type": "double_bottom",
+    "entry_price": 1181.4000244140625,
+    "stop_loss": 1093.3636346948474,
+    "target_1": 1269.4364141332776,
+    "target_2": 1313.4546089928851,
+    "timestamp": "2025-06-15 16:31:35"
+  },
+  {
+    "symbol": "CSBBANK",
+    "setup_type": "double_bottom",
+    "entry_price": 384.70001220703125,
+    "stop_loss": 362.27856021223454,
+    "target_1": 407.12146420182796,
+    "target_2": 418.3321901992263,
+    "timestamp": "2025-06-15 16:31:37"
+  },
+  {
+    "symbol": "CSBBANK",
+    "setup_type": "Composite Score",
+    "entry_price": 384.70001220703125,
+    "stop_loss": 362.27856021223454,
+    "target_1": 407.12146420182796,
+    "target_2": 418.3321901992263,
+    "timestamp": "2025-06-15 16:31:38"
+  },
+  {
+    "symbol": "CUMMINSIND",
+    "setup_type": "double_bottom",
+    "entry_price": 3310.0,
+    "stop_loss": 3153.972178265438,
+    "target_1": 3466.027821734562,
+    "target_2": 3544.0417326018433,
+    "timestamp": "2025-06-15 16:31:40"
+  },
+  {
+    "symbol": "CUBEXTUB",
+    "setup_type": "double_bottom",
+    "entry_price": 109.55999755859375,
+    "stop_loss": 99.73856090902471,
+    "target_1": 119.38143420816279,
+    "target_2": 124.2921525329473,
+    "timestamp": "2025-06-15 16:31:40"
+  },
+  {
+    "symbol": "CUBEXTUB",
+    "setup_type": "Composite Score",
+    "entry_price": 109.55999755859375,
+    "stop_loss": 99.73856090902471,
+    "target_1": 119.38143420816279,
+    "target_2": 124.2921525329473,
+    "timestamp": "2025-06-15 16:31:40"
+  },
+  {
+    "symbol": "DALBHARAT",
+    "setup_type": "double_bottom",
+    "entry_price": 2089.300048828125,
+    "stop_loss": 1990.1114873908155,
+    "target_1": 2188.4886102654345,
+    "target_2": 2238.0828909840893,
+    "timestamp": "2025-06-15 16:31:47"
+  },
+  {
+    "symbol": "DAMCAPITAL",
+    "setup_type": "double_top",
+    "entry_price": 274.6499938964844,
+    "stop_loss": 247.34672568051977,
+    "target_1": 301.953262112449,
+    "target_2": 315.6048962204313,
+    "timestamp": "2025-06-15 16:31:49"
+  },
+  {
+    "symbol": "DATAMATICS",
+    "setup_type": "double_bottom",
+    "entry_price": 624.75,
+    "stop_loss": 584.5292128422025,
+    "target_1": 664.9707871577975,
+    "target_2": 685.0811807366964,
+    "timestamp": "2025-06-15 16:31:50"
+  },
+  {
+    "symbol": "DATAMATICS",
+    "setup_type": "Composite Score",
+    "entry_price": 624.75,
+    "stop_loss": 584.5292128422025,
+    "target_1": 664.9707871577975,
+    "target_2": 685.0811807366964,
+    "timestamp": "2025-06-15 16:31:50"
+  },
+  {
+    "symbol": "DATAPATTNS",
+    "setup_type": "double_bottom",
+    "entry_price": 3002.5,
+    "stop_loss": 2678.957525844286,
+    "target_1": 3326.042474155714,
+    "target_2": 3487.813711233571,
+    "timestamp": "2025-06-15 16:31:51"
+  },
+  {
+    "symbol": "DBCORP",
+    "setup_type": "double_bottom",
+    "entry_price": 275.45001220703125,
+    "stop_loss": 257.94118175709525,
+    "target_1": 292.95884265696725,
+    "target_2": 301.71325788193525,
+    "timestamp": "2025-06-15 16:31:52"
+  },
+  {
+    "symbol": "DBCORP",
+    "setup_type": "Composite Score",
+    "entry_price": 275.45001220703125,
+    "stop_loss": 257.94118175709525,
+    "target_1": 292.95884265696725,
+    "target_2": 301.71325788193525,
+    "timestamp": "2025-06-15 16:31:52"
+  },
+  {
+    "symbol": "DBL",
+    "setup_type": "double_bottom",
+    "entry_price": 532.5,
+    "stop_loss": 493.40937091508596,
+    "target_1": 571.5906290849141,
+    "target_2": 591.135943627371,
+    "timestamp": "2025-06-15 16:31:54"
+  },
+  {
+    "symbol": "DBL",
+    "setup_type": "Composite Score",
+    "entry_price": 532.5,
+    "stop_loss": 493.40937091508596,
+    "target_1": 571.5906290849141,
+    "target_2": 591.135943627371,
+    "timestamp": "2025-06-15 16:31:54"
+  },
+  {
+    "symbol": "DBREALTY",
+    "setup_type": "double_bottom",
+    "entry_price": 239.92999267578125,
+    "stop_loss": 218.30594936278789,
+    "target_1": 261.5540359887746,
+    "target_2": 272.3660576452713,
+    "timestamp": "2025-06-15 16:31:54"
+  },
+  {
+    "symbol": "DBREALTY",
+    "setup_type": "Composite Score",
+    "entry_price": 239.92999267578125,
+    "stop_loss": 218.30594936278789,
+    "target_1": 261.5540359887746,
+    "target_2": 272.3660576452713,
+    "timestamp": "2025-06-15 16:31:54"
+  },
+  {
+    "symbol": "DCBBANK",
+    "setup_type": "double_bottom",
+    "entry_price": 144.97000122070312,
+    "stop_loss": 136.5743671556393,
+    "target_1": 153.36563528576696,
+    "target_2": 157.56345231829889,
+    "timestamp": "2025-06-15 16:31:57"
+  },
+  {
+    "symbol": "DCAL",
+    "setup_type": "double_bottom",
+    "entry_price": 279.54998779296875,
+    "stop_loss": 254.27093311199985,
+    "target_1": 304.82904247393765,
+    "target_2": 317.4685698144221,
+    "timestamp": "2025-06-15 16:31:58"
+  },
+  {
+    "symbol": "DDEVPLSTIK",
+    "setup_type": "double_bottom",
+    "entry_price": 277.6499938964844,
+    "stop_loss": 252.92399024292558,
+    "target_1": 302.37599755004317,
+    "target_2": 314.73899937682256,
+    "timestamp": "2025-06-15 16:32:02"
+  },
+  {
+    "symbol": "DEEDEV",
+    "setup_type": "double_bottom",
+    "entry_price": 286.6499938964844,
+    "stop_loss": 257.3179509671052,
+    "target_1": 315.98203682586353,
+    "target_2": 330.6480582905531,
+    "timestamp": "2025-06-15 16:32:02"
+  },
+  {
+    "symbol": "DEEPAKFERT",
+    "setup_type": "double_bottom",
+    "entry_price": 1554.300048828125,
+    "stop_loss": 1431.6887802320236,
+    "target_1": 1676.9113174242264,
+    "target_2": 1738.2169517222771,
+    "timestamp": "2025-06-15 16:32:03"
+  },
+  {
+    "symbol": "DEEPAKFERT",
+    "setup_type": "Composite Score",
+    "entry_price": 1554.300048828125,
+    "stop_loss": 1431.6887802320236,
+    "target_1": 1676.9113174242264,
+    "target_2": 1738.2169517222771,
+    "timestamp": "2025-06-15 16:32:03"
+  },
+  {
+    "symbol": "DEVIT",
+    "setup_type": "double_top",
+    "entry_price": 110.88999938964844,
+    "stop_loss": 100.31964838522433,
+    "target_1": 121.46035039407255,
+    "target_2": 126.7455258962846,
+    "timestamp": "2025-06-15 16:32:09"
+  },
+  {
+    "symbol": "DHAMPURSUG",
+    "setup_type": "double_bottom",
+    "entry_price": 158.55999755859375,
+    "stop_loss": 147.51489969574342,
+    "target_1": 169.60509542144408,
+    "target_2": 175.12764435286925,
+    "timestamp": "2025-06-15 16:32:12"
+  },
+  {
+    "symbol": "DHANI",
+    "setup_type": "double_top",
+    "entry_price": 73.95999908447266,
+    "stop_loss": 65.74627280910289,
+    "target_1": 82.17372535984242,
+    "target_2": 86.2805884975273,
+    "timestamp": "2025-06-15 16:32:14"
+  },
+  {
+    "symbol": "DIVISLAB",
+    "setup_type": "double_bottom",
+    "entry_price": 6667.0,
+    "stop_loss": 6392.626806434159,
+    "target_1": 6941.373193565841,
+    "target_2": 7078.5597903487605,
+    "timestamp": "2025-06-15 16:32:26"
+  },
+  {
+    "symbol": "DLINKINDIA",
+    "setup_type": "double_bottom",
+    "entry_price": 540.0999755859375,
+    "stop_loss": 497.34617792142205,
+    "target_1": 582.853773250453,
+    "target_2": 604.2306720827107,
+    "timestamp": "2025-06-15 16:32:27"
+  },
+  {
+    "symbol": "DLINKINDIA",
+    "setup_type": "Composite Score",
+    "entry_price": 540.0999755859375,
+    "stop_loss": 497.34617792142205,
+    "target_1": 582.853773250453,
+    "target_2": 604.2306720827107,
+    "timestamp": "2025-06-15 16:32:27"
+  },
+  {
+    "symbol": "DLF",
+    "setup_type": "double_bottom",
+    "entry_price": 851.25,
+    "stop_loss": 804.6286554457358,
+    "target_1": 897.8713445542642,
+    "target_2": 921.1820168313963,
+    "timestamp": "2025-06-15 16:32:28"
+  },
+  {
+    "symbol": "DLF",
+    "setup_type": "Composite Score",
+    "entry_price": 851.25,
+    "stop_loss": 804.6286554457358,
+    "target_1": 897.8713445542642,
+    "target_2": 921.1820168313963,
+    "timestamp": "2025-06-15 16:32:28"
+  },
+  {
+    "symbol": "DOLATALGO",
+    "setup_type": "double_bottom",
+    "entry_price": 103.94999694824219,
+    "stop_loss": 93.38199660692182,
+    "target_1": 114.51799728956256,
+    "target_2": 119.80199746022274,
+    "timestamp": "2025-06-15 16:32:30"
+  },
+  {
+    "symbol": "DREAMFOLKS",
+    "setup_type": "double_bottom",
+    "entry_price": 272.0,
+    "stop_loss": 247.60097954222394,
+    "target_1": 296.3990204577761,
+    "target_2": 308.5985306866641,
+    "timestamp": "2025-06-15 16:32:37"
+  },
+  {
+    "symbol": "DRREDDY",
+    "setup_type": "double_bottom",
+    "entry_price": 1362.5,
+    "stop_loss": 1309.147424321643,
+    "target_1": 1415.852575678357,
+    "target_2": 1442.5288635175352,
+    "timestamp": "2025-06-15 16:32:40"
+  },
+  {
+    "symbol": "DRREDDY",
+    "setup_type": "Composite Score",
+    "entry_price": 1362.5,
+    "stop_loss": 1309.147424321643,
+    "target_1": 1415.852575678357,
+    "target_2": 1442.5288635175352,
+    "timestamp": "2025-06-15 16:32:40"
+  },
+  {
+    "symbol": "DYCL",
+    "setup_type": "double_bottom",
+    "entry_price": 867.0,
+    "stop_loss": 780.4181159479766,
+    "target_1": 953.5818840520234,
+    "target_2": 996.8728260780351,
+    "timestamp": "2025-06-15 16:32:42"
+  },
+  {
+    "symbol": "ECOSMOBLTY",
+    "setup_type": "double_bottom",
+    "entry_price": 297.8500061035156,
+    "stop_loss": 267.44485224285916,
+    "target_1": 328.2551599641721,
+    "target_2": 343.4577368945004,
+    "timestamp": "2025-06-15 16:32:44"
+  },
+  {
+    "symbol": "ECOSMOBLTY",
+    "setup_type": "Composite Score",
+    "entry_price": 297.8500061035156,
+    "stop_loss": 267.44485224285916,
+    "target_1": 328.2551599641721,
+    "target_2": 343.4577368945004,
+    "timestamp": "2025-06-15 16:32:44"
+  },
+  {
+    "symbol": "EDELWEISS",
+    "setup_type": "double_top",
+    "entry_price": 107.0199966430664,
+    "stop_loss": 98.25073545834168,
+    "target_1": 115.78925782779113,
+    "target_2": 120.1738884201535,
+    "timestamp": "2025-06-15 16:32:45"
+  },
+  {
+    "symbol": "EIDPARRY",
+    "setup_type": "double_bottom",
+    "entry_price": 984.6500244140625,
+    "stop_loss": 927.33075105756,
+    "target_1": 1041.9692977705652,
+    "target_2": 1070.6289344488164,
+    "timestamp": "2025-06-15 16:32:50"
+  },
+  {
+    "symbol": "ELGIEQUIP",
+    "setup_type": "double_bottom",
+    "entry_price": 536.3499755859375,
+    "stop_loss": 500.3579585857568,
+    "target_1": 572.3419925861182,
+    "target_2": 590.3380010862085,
+    "timestamp": "2025-06-15 16:32:53"
+  },
+  {
+    "symbol": "ELGIEQUIP",
+    "setup_type": "Composite Score",
+    "entry_price": 536.3499755859375,
+    "stop_loss": 500.3579585857568,
+    "target_1": 572.3419925861182,
+    "target_2": 590.3380010862085,
+    "timestamp": "2025-06-15 16:32:53"
+  },
+  {
+    "symbol": "ELECTCAST",
+    "setup_type": "Composite Score",
+    "entry_price": 128.3000030517578,
+    "stop_loss": 117.35374417661315,
+    "target_1": 139.24626192690246,
+    "target_2": 144.7193913644748,
+    "timestamp": "2025-06-15 16:32:53"
+  },
+  {
+    "symbol": "ELIN",
+    "setup_type": "double_bottom",
+    "entry_price": 182.1999969482422,
+    "stop_loss": 162.644237434139,
+    "target_1": 201.75575646234537,
+    "target_2": 211.53363621939698,
+    "timestamp": "2025-06-15 16:32:56"
+  },
+  {
+    "symbol": "EMBDL",
+    "setup_type": "double_bottom",
+    "entry_price": 114.58999633789062,
+    "stop_loss": 106.13567811448493,
+    "target_1": 123.04431456129632,
+    "target_2": 127.27147367299916,
+    "timestamp": "2025-06-15 16:32:57"
+  },
+  {
+    "symbol": "EMCURE",
+    "setup_type": "double_bottom",
+    "entry_price": 1361.4000244140625,
+    "stop_loss": 1254.604078948514,
+    "target_1": 1468.195969879611,
+    "target_2": 1521.5939426123855,
+    "timestamp": "2025-06-15 16:32:59"
+  },
+  {
+    "symbol": "EMCURE",
+    "setup_type": "Composite Score",
+    "entry_price": 1361.4000244140625,
+    "stop_loss": 1254.604078948514,
+    "target_1": 1468.195969879611,
+    "target_2": 1521.5939426123855,
+    "timestamp": "2025-06-15 16:32:59"
+  },
+  {
+    "symbol": "ENGINERSIN",
+    "setup_type": "double_top",
+    "entry_price": 223.89999389648438,
+    "stop_loss": 204.87970098850678,
+    "target_1": 242.92028680446197,
+    "target_2": 252.43043325845076,
+    "timestamp": "2025-06-15 16:33:05"
+  },
+  {
+    "symbol": "ENGINERSIN",
+    "setup_type": "Composite Score",
+    "entry_price": 223.89999389648438,
+    "stop_loss": 204.87970098850678,
+    "target_1": 242.92028680446197,
+    "target_2": 252.43043325845076,
+    "timestamp": "2025-06-15 16:33:05"
+  },
+  {
+    "symbol": "EPL",
+    "setup_type": "double_bottom",
+    "entry_price": 243.4600067138672,
+    "stop_loss": 227.95116080441522,
+    "target_1": 258.96885262331915,
+    "target_2": 266.7232755780451,
+    "timestamp": "2025-06-15 16:33:08"
+  },
+  {
+    "symbol": "ERIS",
+    "setup_type": "double_bottom",
+    "entry_price": 1795.0999755859375,
+    "stop_loss": 1652.767728681725,
+    "target_1": 1937.43222249015,
+    "target_2": 2008.5983459422562,
+    "timestamp": "2025-06-15 16:33:09"
+  },
+  {
+    "symbol": "ERIS",
+    "setup_type": "Composite Score",
+    "entry_price": 1795.0999755859375,
+    "stop_loss": 1652.767728681725,
+    "target_1": 1937.43222249015,
+    "target_2": 2008.5983459422562,
+    "timestamp": "2025-06-15 16:33:09"
+  },
+  {
+    "symbol": "EQUITASBNK",
+    "setup_type": "double_bottom",
+    "entry_price": 68.41999816894531,
+    "stop_loss": 64.10747612913383,
+    "target_1": 72.7325202087568,
+    "target_2": 74.88878122866255,
+    "timestamp": "2025-06-15 16:33:10"
+  },
+  {
+    "symbol": "EVEREADY",
+    "setup_type": "double_bottom",
+    "entry_price": 329.1000061035156,
+    "stop_loss": 308.89138173494655,
+    "target_1": 349.3086304720847,
+    "target_2": 359.41294265636924,
+    "timestamp": "2025-06-15 16:33:18"
+  },
+  {
+    "symbol": "EXICOM",
+    "setup_type": "double_top",
+    "entry_price": 195.10000610351562,
+    "stop_loss": 175.60848231085134,
+    "target_1": 214.5915298961799,
+    "target_2": 224.33729179251202,
+    "timestamp": "2025-06-15 16:33:20"
+  },
+  {
+    "symbol": "FACT",
+    "setup_type": "double_bottom",
+    "entry_price": 1015.4000244140625,
+    "stop_loss": 922.6021158191052,
+    "target_1": 1108.1979330090198,
+    "target_2": 1154.5968873064985,
+    "timestamp": "2025-06-15 16:33:22"
+  },
+  {
+    "symbol": "FDC",
+    "setup_type": "double_bottom",
+    "entry_price": 475.8500061035156,
+    "stop_loss": 446.0762353787265,
+    "target_1": 505.62377682830476,
+    "target_2": 520.5106621906993,
+    "timestamp": "2025-06-15 16:33:24"
+  },
+  {
+    "symbol": "FDC",
+    "setup_type": "Composite Score",
+    "entry_price": 475.8500061035156,
+    "stop_loss": 446.0762353787265,
+    "target_1": 505.62377682830476,
+    "target_2": 520.5106621906993,
+    "timestamp": "2025-06-15 16:33:24"
+  },
+  {
+    "symbol": "FCL",
+    "setup_type": "double_bottom",
+    "entry_price": 265.92999267578125,
+    "stop_loss": 244.04576871511165,
+    "target_1": 287.81421663645085,
+    "target_2": 298.75632861678565,
+    "timestamp": "2025-06-15 16:33:24"
+  },
+  {
+    "symbol": "FEDERALBNK",
+    "setup_type": "double_bottom",
+    "entry_price": 205.3000030517578,
+    "stop_loss": 195.93267928125923,
+    "target_1": 214.6673268222564,
+    "target_2": 219.35098870750568,
+    "timestamp": "2025-06-15 16:33:25"
+  },
+  {
+    "symbol": "FEDFINA",
+    "setup_type": "double_bottom",
+    "entry_price": 117.2300033569336,
+    "stop_loss": 109.1451287544004,
+    "target_1": 125.31487795946678,
+    "target_2": 129.35731526073337,
+    "timestamp": "2025-06-15 16:33:29"
+  },
+  {
+    "symbol": "FEDFINA",
+    "setup_type": "Composite Score",
+    "entry_price": 117.2300033569336,
+    "stop_loss": 109.1451287544004,
+    "target_1": 125.31487795946678,
+    "target_2": 129.35731526073337,
+    "timestamp": "2025-06-15 16:33:29"
+  },
+  {
+    "symbol": "FIBERWEB",
+    "setup_type": "double_bottom",
+    "entry_price": 51.09000015258789,
+    "stop_loss": 45.82069740713112,
+    "target_1": 56.35930289804466,
+    "target_2": 58.993954270773045,
+    "timestamp": "2025-06-15 16:33:30"
+  },
+  {
+    "symbol": "FILATEX",
+    "setup_type": "double_bottom",
+    "entry_price": 54.150001525878906,
+    "stop_loss": 49.627646171474666,
+    "target_1": 58.67235688028315,
+    "target_2": 60.93353455748527,
+    "timestamp": "2025-06-15 16:33:31"
+  },
+  {
+    "symbol": "FINOPB",
+    "setup_type": "double_bottom",
+    "entry_price": 283.3900146484375,
+    "stop_loss": 259.95863920122804,
+    "target_1": 306.82139009564696,
+    "target_2": 318.5370778192517,
+    "timestamp": "2025-06-15 16:33:32"
+  },
+  {
+    "symbol": "FINOPB",
+    "setup_type": "Composite Score",
+    "entry_price": 283.3900146484375,
+    "stop_loss": 259.95863920122804,
+    "target_1": 306.82139009564696,
+    "target_2": 318.5370778192517,
+    "timestamp": "2025-06-15 16:33:32"
+  },
+  {
+    "symbol": "FINPIPE",
+    "setup_type": "double_bottom",
+    "entry_price": 222.77999877929688,
+    "stop_loss": 205.71920480051494,
+    "target_1": 239.8407927580788,
+    "target_2": 248.37118974746977,
+    "timestamp": "2025-06-15 16:33:33"
+  },
+  {
+    "symbol": "FINPIPE",
+    "setup_type": "Composite Score",
+    "entry_price": 222.77999877929688,
+    "stop_loss": 205.71920480051494,
+    "target_1": 239.8407927580788,
+    "target_2": 248.37118974746977,
+    "timestamp": "2025-06-15 16:33:33"
+  },
+  {
+    "symbol": "FIRSTCRY",
+    "setup_type": "double_bottom",
+    "entry_price": 378.1000061035156,
+    "stop_loss": 336.5016688177386,
+    "target_1": 419.69834338929263,
+    "target_2": 440.49751203218113,
+    "timestamp": "2025-06-15 16:33:33"
+  },
+  {
+    "symbol": "FMGOETZE",
+    "setup_type": "double_bottom",
+    "entry_price": 496.3999938964844,
+    "stop_loss": 453.097948240321,
+    "target_1": 539.7020395526478,
+    "target_2": 561.3530623807294,
+    "timestamp": "2025-06-15 16:33:36"
+  },
+  {
+    "symbol": "FMGOETZE",
+    "setup_type": "Composite Score",
+    "entry_price": 496.3999938964844,
+    "stop_loss": 453.097948240321,
+    "target_1": 539.7020395526478,
+    "target_2": 561.3530623807294,
+    "timestamp": "2025-06-15 16:33:36"
+  },
+  {
+    "symbol": "FOCUS",
+    "setup_type": "double_top",
+    "entry_price": 123.54000091552734,
+    "stop_loss": 111.80803104853067,
+    "target_1": 135.27197078252402,
+    "target_2": 141.13795571602236,
+    "timestamp": "2025-06-15 16:33:38"
+  },
+  {
+    "symbol": "FORTIS",
+    "setup_type": "double_bottom",
+    "entry_price": 754.0,
+    "stop_loss": 711.2180760034694,
+    "target_1": 796.7819239965306,
+    "target_2": 818.1728859947959,
+    "timestamp": "2025-06-15 16:33:42"
+  },
+  {
+    "symbol": "FUSION",
+    "setup_type": "double_bottom",
+    "entry_price": 193.6699981689453,
+    "stop_loss": 174.96458825283716,
+    "target_1": 212.37540808505346,
+    "target_2": 221.72811304310753,
+    "timestamp": "2025-06-15 16:33:45"
+  },
+  {
+    "symbol": "GANDHAR",
+    "setup_type": "double_bottom",
+    "entry_price": 171.82000732421875,
+    "stop_loss": 160.1349480766684,
+    "target_1": 183.5050665717691,
+    "target_2": 189.3475961955443,
+    "timestamp": "2025-06-15 16:33:49"
+  },
+  {
+    "symbol": "GARUDA",
+    "setup_type": "double_bottom",
+    "entry_price": 120.5199966430664,
+    "stop_loss": 108.5507393037349,
+    "target_1": 132.4892539823979,
+    "target_2": 138.47388265206368,
+    "timestamp": "2025-06-15 16:33:56"
+  },
+  {
+    "symbol": "GARUDA",
+    "setup_type": "Composite Score",
+    "entry_price": 120.5199966430664,
+    "stop_loss": 108.5507393037349,
+    "target_1": 132.4892539823979,
+    "target_2": 138.47388265206368,
+    "timestamp": "2025-06-15 16:33:56"
+  },
+  {
+    "symbol": "GATEWAY",
+    "setup_type": "double_bottom",
+    "entry_price": 65.52999877929688,
+    "stop_loss": 60.69844242201383,
+    "target_1": 70.36155513657992,
+    "target_2": 72.77733331522145,
+    "timestamp": "2025-06-15 16:33:56"
+  },
+  {
+    "symbol": "GEPIL",
+    "setup_type": "double_bottom",
+    "entry_price": 316.04998779296875,
+    "stop_loss": 283.93925522924604,
+    "target_1": 348.16072035669146,
+    "target_2": 364.2160866385528,
+    "timestamp": "2025-06-15 16:34:02"
+  },
+  {
+    "symbol": "GESHIP",
+    "setup_type": "double_bottom",
+    "entry_price": 989.4500122070312,
+    "stop_loss": 921.1948935783275,
+    "target_1": 1057.705130835735,
+    "target_2": 1091.8326901500868,
+    "timestamp": "2025-06-15 16:34:03"
+  },
+  {
+    "symbol": "GESHIP",
+    "setup_type": "Composite Score",
+    "entry_price": 989.4500122070312,
+    "stop_loss": 921.1948935783275,
+    "target_1": 1057.705130835735,
+    "target_2": 1091.8326901500868,
+    "timestamp": "2025-06-15 16:34:03"
+  },
+  {
+    "symbol": "GHCL",
+    "setup_type": "double_bottom",
+    "entry_price": 627.6500244140625,
+    "stop_loss": 590.5719091283653,
+    "target_1": 664.7281396997597,
+    "target_2": 683.2671973426083,
+    "timestamp": "2025-06-15 16:34:04"
+  },
+  {
+    "symbol": "GHCLTEXTIL",
+    "setup_type": "double_bottom",
+    "entry_price": 93.20999908447266,
+    "stop_loss": 86.1060071742567,
+    "target_1": 100.31399099468861,
+    "target_2": 103.86598694979659,
+    "timestamp": "2025-06-15 16:34:05"
+  },
+  {
+    "symbol": "GICHSGFIN",
+    "setup_type": "double_bottom",
+    "entry_price": 190.63999938964844,
+    "stop_loss": 180.1368321399815,
+    "target_1": 201.14316663931538,
+    "target_2": 206.39475026414888,
+    "timestamp": "2025-06-15 16:34:07"
+  },
+  {
+    "symbol": "GIPCL",
+    "setup_type": "double_bottom",
+    "entry_price": 203.00999450683594,
+    "stop_loss": 189.44918861520057,
+    "target_1": 216.5708003984713,
+    "target_2": 223.351203344289,
+    "timestamp": "2025-06-15 16:34:09"
+  },
+  {
+    "symbol": "GLAND",
+    "setup_type": "double_bottom",
+    "entry_price": 1689.699951171875,
+    "stop_loss": 1597.1879910788216,
+    "target_1": 1782.2119112649284,
+    "target_2": 1828.467891311455,
+    "timestamp": "2025-06-15 16:34:10"
+  },
+  {
+    "symbol": "GLAXO",
+    "setup_type": "double_bottom",
+    "entry_price": 3295.0,
+    "stop_loss": 3043.4523274731905,
+    "target_1": 3546.5476725268095,
+    "target_2": 3672.321508790214,
+    "timestamp": "2025-06-15 16:34:10"
+  },
+  {
+    "symbol": "GLAXO",
+    "setup_type": "Composite Score",
+    "entry_price": 3295.0,
+    "stop_loss": 3043.4523274731905,
+    "target_1": 3546.5476725268095,
+    "target_2": 3672.321508790214,
+    "timestamp": "2025-06-15 16:34:10"
+  },
+  {
+    "symbol": "GLENMARK",
+    "setup_type": "double_bottom",
+    "entry_price": 1669.9000244140625,
+    "stop_loss": 1581.7485115306636,
+    "target_1": 1758.0515372974614,
+    "target_2": 1802.127293739161,
+    "timestamp": "2025-06-15 16:34:12"
+  },
+  {
+    "symbol": "GLENMARK",
+    "setup_type": "Composite Score",
+    "entry_price": 1669.9000244140625,
+    "stop_loss": 1581.7485115306636,
+    "target_1": 1758.0515372974614,
+    "target_2": 1802.127293739161,
+    "timestamp": "2025-06-15 16:34:12"
+  },
+  {
+    "symbol": "GMDCLTD",
+    "setup_type": "double_bottom",
+    "entry_price": 408.70001220703125,
+    "stop_loss": 376.8016891469343,
+    "target_1": 440.5983352671282,
+    "target_2": 456.5474967971767,
+    "timestamp": "2025-06-15 16:34:15"
+  },
+  {
+    "symbol": "GMDCLTD",
+    "setup_type": "Composite Score",
+    "entry_price": 408.70001220703125,
+    "stop_loss": 376.8016891469343,
+    "target_1": 440.5983352671282,
+    "target_2": 456.5474967971767,
+    "timestamp": "2025-06-15 16:34:15"
+  },
+  {
+    "symbol": "GOCLCORP",
+    "setup_type": "double_bottom",
+    "entry_price": 389.20001220703125,
+    "stop_loss": 348.4451494136153,
+    "target_1": 429.9548750004472,
+    "target_2": 450.3323063971552,
+    "timestamp": "2025-06-15 16:34:22"
+  },
+  {
+    "symbol": "GOCLCORP",
+    "setup_type": "Composite Score",
+    "entry_price": 389.20001220703125,
+    "stop_loss": 348.4451494136153,
+    "target_1": 429.9548750004472,
+    "target_2": 450.3323063971552,
+    "timestamp": "2025-06-15 16:34:22"
+  },
+  {
+    "symbol": "GODAVARIB",
+    "setup_type": "double_bottom",
+    "entry_price": 267.04998779296875,
+    "stop_loss": 236.35832472703822,
+    "target_1": 297.7416508588993,
+    "target_2": 313.0874823918645,
+    "timestamp": "2025-06-15 16:34:22"
+  },
+  {
+    "symbol": "GODREJAGRO",
+    "setup_type": "double_bottom",
+    "entry_price": 787.1500244140625,
+    "stop_loss": 737.443129150254,
+    "target_1": 836.856919677871,
+    "target_2": 861.7103673097753,
+    "timestamp": "2025-06-15 16:34:25"
+  },
+  {
+    "symbol": "GODIGIT",
+    "setup_type": "double_bottom",
+    "entry_price": 342.95001220703125,
+    "stop_loss": 317.6847987319931,
+    "target_1": 368.2152256820694,
+    "target_2": 380.8478324195885,
+    "timestamp": "2025-06-15 16:34:25"
+  },
+  {
+    "symbol": "GODREJIND",
+    "setup_type": "double_bottom",
+    "entry_price": 1278.0999755859375,
+    "stop_loss": 1187.6875423138522,
+    "target_1": 1368.5124088580228,
+    "target_2": 1413.7186254940655,
+    "timestamp": "2025-06-15 16:34:25"
+  },
+  {
+    "symbol": "GODREJPROP",
+    "setup_type": "double_bottom",
+    "entry_price": 2402.0,
+    "stop_loss": 2243.9451399180916,
+    "target_1": 2560.0548600819084,
+    "target_2": 2639.0822901228626,
+    "timestamp": "2025-06-15 16:34:27"
+  },
+  {
+    "symbol": "GODREJPROP",
+    "setup_type": "Composite Score",
+    "entry_price": 2402.0,
+    "stop_loss": 2243.9451399180916,
+    "target_1": 2560.0548600819084,
+    "target_2": 2639.0822901228626,
+    "timestamp": "2025-06-15 16:34:27"
+  },
+  {
+    "symbol": "GOKULAGRO",
+    "setup_type": "double_bottom",
+    "entry_price": 280.9800109863281,
+    "stop_loss": 256.2464199073051,
+    "target_1": 305.71360206535115,
+    "target_2": 318.08039760486264,
+    "timestamp": "2025-06-15 16:34:28"
+  },
+  {
+    "symbol": "GOKULAGRO",
+    "setup_type": "Composite Score",
+    "entry_price": 280.9800109863281,
+    "stop_loss": 256.2464199073051,
+    "target_1": 305.71360206535115,
+    "target_2": 318.08039760486264,
+    "timestamp": "2025-06-15 16:34:28"
+  },
+  {
+    "symbol": "GOPAL",
+    "setup_type": "double_bottom",
+    "entry_price": 367.1000061035156,
+    "stop_loss": 337.5765884869175,
+    "target_1": 396.62342372011375,
+    "target_2": 411.38513252841284,
+    "timestamp": "2025-06-15 16:34:33"
+  },
+  {
+    "symbol": "GOODLUCK",
+    "setup_type": "double_bottom",
+    "entry_price": 997.5,
+    "stop_loss": 921.4719414107944,
+    "target_1": 1073.5280585892056,
+    "target_2": 1111.5420878838083,
+    "timestamp": "2025-06-15 16:34:34"
+  },
+  {
+    "symbol": "GOODLUCK",
+    "setup_type": "Composite Score",
+    "entry_price": 997.5,
+    "stop_loss": 921.4719414107944,
+    "target_1": 1073.5280585892056,
+    "target_2": 1111.5420878838083,
+    "timestamp": "2025-06-15 16:34:34"
+  },
+  {
+    "symbol": "GPPL",
+    "setup_type": "double_bottom",
+    "entry_price": 159.0,
+    "stop_loss": 148.42731399066108,
+    "target_1": 169.57268600933892,
+    "target_2": 174.85902901400837,
+    "timestamp": "2025-06-15 16:34:36"
+  },
+  {
+    "symbol": "GPPL",
+    "setup_type": "Composite Score",
+    "entry_price": 159.0,
+    "stop_loss": 148.42731399066108,
+    "target_1": 169.57268600933892,
+    "target_2": 174.85902901400837,
+    "timestamp": "2025-06-15 16:34:36"
+  },
+  {
+    "symbol": "GREENPANEL",
+    "setup_type": "double_bottom",
+    "entry_price": 270.70001220703125,
+    "stop_loss": 248.21961350218834,
+    "target_1": 293.18041091187416,
+    "target_2": 304.4206102642956,
+    "timestamp": "2025-06-15 16:34:38"
+  },
+  {
+    "symbol": "GREENPLY",
+    "setup_type": "double_bottom",
+    "entry_price": 333.3999938964844,
+    "stop_loss": 311.09771708291316,
+    "target_1": 355.7022707100556,
+    "target_2": 366.8534091168412,
+    "timestamp": "2025-06-15 16:34:39"
+  },
+  {
+    "symbol": "GRINFRA",
+    "setup_type": "double_bottom",
+    "entry_price": 1331.4000244140625,
+    "stop_loss": 1232.9329595275628,
+    "target_1": 1429.8670893005622,
+    "target_2": 1479.1006217438119,
+    "timestamp": "2025-06-15 16:34:42"
+  },
+  {
+    "symbol": "GRSE",
+    "setup_type": "double_bottom",
+    "entry_price": 3069.300048828125,
+    "stop_loss": 2678.4797243667085,
+    "target_1": 3460.1203732895415,
+    "target_2": 3655.53053552025,
+    "timestamp": "2025-06-15 16:34:45"
+  },
+  {
+    "symbol": "GRSE",
+    "setup_type": "Composite Score",
+    "entry_price": 3069.300048828125,
+    "stop_loss": 2678.4797243667085,
+    "target_1": 3460.1203732895415,
+    "target_2": 3655.53053552025,
+    "timestamp": "2025-06-15 16:34:45"
+  },
+  {
+    "symbol": "GRMOVER",
+    "setup_type": "double_bottom",
+    "entry_price": 343.45001220703125,
+    "stop_loss": 312.7752318160806,
+    "target_1": 374.1247925979819,
+    "target_2": 389.46218279345726,
+    "timestamp": "2025-06-15 16:34:46"
+  },
+  {
+    "symbol": "GRMOVER",
+    "setup_type": "Composite Score",
+    "entry_price": 343.45001220703125,
+    "stop_loss": 312.7752318160806,
+    "target_1": 374.1247925979819,
+    "target_2": 389.46218279345726,
+    "timestamp": "2025-06-15 16:34:46"
+  },
+  {
+    "symbol": "GUJGASLTD",
+    "setup_type": "double_bottom",
+    "entry_price": 469.6499938964844,
+    "stop_loss": 447.25769708224897,
+    "target_1": 492.0422907107198,
+    "target_2": 503.23843911783746,
+    "timestamp": "2025-06-15 16:34:53"
+  },
+  {
+    "symbol": "GULFOILLUB",
+    "setup_type": "double_bottom",
+    "entry_price": 1212.0,
+    "stop_loss": 1128.7421349806448,
+    "target_1": 1295.2578650193552,
+    "target_2": 1336.886797529033,
+    "timestamp": "2025-06-15 16:34:54"
+  },
+  {
+    "symbol": "GUJTHEM",
+    "setup_type": "double_bottom",
+    "entry_price": 334.6000061035156,
+    "stop_loss": 300.76813383323076,
+    "target_1": 368.4318783738005,
+    "target_2": 385.3478145089429,
+    "timestamp": "2025-06-15 16:34:55"
+  },
+  {
+    "symbol": "HAL",
+    "setup_type": "double_bottom",
+    "entry_price": 5026.0,
+    "stop_loss": 4751.756546437636,
+    "target_1": 5300.243453562364,
+    "target_2": 5437.365180343546,
+    "timestamp": "2025-06-15 16:35:00"
+  },
+  {
+    "symbol": "HARIOMPIPE",
+    "setup_type": "double_bottom",
+    "entry_price": 399.45001220703125,
+    "stop_loss": 362.061389249968,
+    "target_1": 436.8386351640945,
+    "target_2": 455.53294664262614,
+    "timestamp": "2025-06-15 16:35:01"
+  },
+  {
+    "symbol": "HDFCAMC",
+    "setup_type": "double_bottom",
+    "entry_price": 4969.2001953125,
+    "stop_loss": 4702.079716301822,
+    "target_1": 5236.320674323178,
+    "target_2": 5369.880913828517,
+    "timestamp": "2025-06-15 16:35:12"
+  },
+  {
+    "symbol": "HDFCAMC",
+    "setup_type": "Composite Score",
+    "entry_price": 4969.2001953125,
+    "stop_loss": 4702.079716301822,
+    "target_1": 5236.320674323178,
+    "target_2": 5369.880913828517,
+    "timestamp": "2025-06-15 16:35:12"
+  },
+  {
+    "symbol": "HEMIPROP",
+    "setup_type": "double_bottom",
+    "entry_price": 142.0500030517578,
+    "stop_loss": 132.18331763508965,
+    "target_1": 151.91668846842597,
+    "target_2": 156.85003117676007,
+    "timestamp": "2025-06-15 16:35:16"
+  },
+  {
+    "symbol": "HERITGFOOD",
+    "setup_type": "double_bottom",
+    "entry_price": 463.54998779296875,
+    "stop_loss": 431.0395181884567,
+    "target_1": 496.0604573974808,
+    "target_2": 512.3156921997368,
+    "timestamp": "2025-06-15 16:35:18"
+  },
+  {
+    "symbol": "HERITGFOOD",
+    "setup_type": "Composite Score",
+    "entry_price": 463.54998779296875,
+    "stop_loss": 431.0395181884567,
+    "target_1": 496.0604573974808,
+    "target_2": 512.3156921997368,
+    "timestamp": "2025-06-15 16:35:18"
+  },
+  {
+    "symbol": "HEXT",
+    "setup_type": "double_bottom",
+    "entry_price": 831.75,
+    "stop_loss": 772.7540550493932,
+    "target_1": 890.7459449506068,
+    "target_2": 920.2439174259101,
+    "timestamp": "2025-06-15 16:35:19"
+  },
+  {
+    "symbol": "HEROMOTOCO",
+    "setup_type": "double_bottom",
+    "entry_price": 4333.7998046875,
+    "stop_loss": 4132.545756755943,
+    "target_1": 4535.053852619057,
+    "target_2": 4635.6808765848355,
+    "timestamp": "2025-06-15 16:35:19"
+  },
+  {
+    "symbol": "HINDCOPPER",
+    "setup_type": "double_bottom",
+    "entry_price": 253.7100067138672,
+    "stop_loss": 236.957114630788,
+    "target_1": 270.4628987969464,
+    "target_2": 278.839344838486,
+    "timestamp": "2025-06-15 16:35:28"
+  },
+  {
+    "symbol": "HINDWAREAP",
+    "setup_type": "double_bottom",
+    "entry_price": 286.1000061035156,
+    "stop_loss": 262.66015391638365,
+    "target_1": 309.5398582906476,
+    "target_2": 321.2597843842136,
+    "timestamp": "2025-06-15 16:35:29"
+  },
+  {
+    "symbol": "HINDZINC",
+    "setup_type": "double_bottom",
+    "entry_price": 514.25,
+    "stop_loss": 479.631588013169,
+    "target_1": 548.868411986831,
+    "target_2": 566.1776179802465,
+    "timestamp": "2025-06-15 16:35:30"
+  },
+  {
+    "symbol": "HINDZINC",
+    "setup_type": "Composite Score",
+    "entry_price": 514.25,
+    "stop_loss": 479.631588013169,
+    "target_1": 548.868411986831,
+    "target_2": 566.1776179802465,
+    "timestamp": "2025-06-15 16:35:30"
+  },
+  {
+    "symbol": "HITECH",
+    "setup_type": "double_bottom",
+    "entry_price": 100.94999694824219,
+    "stop_loss": 91.9573640044427,
+    "target_1": 109.94262989204168,
+    "target_2": 114.43894636394143,
+    "timestamp": "2025-06-15 16:35:31"
+  },
+  {
+    "symbol": "HLEGLAS",
+    "setup_type": "double_bottom",
+    "entry_price": 436.0,
+    "stop_loss": 393.4317700085982,
+    "target_1": 478.5682299914018,
+    "target_2": 499.85234498710264,
+    "timestamp": "2025-06-15 16:35:33"
+  },
+  {
+    "symbol": "HOMEFIRST",
+    "setup_type": "double_bottom",
+    "entry_price": 1267.9000244140625,
+    "stop_loss": 1169.3371348887922,
+    "target_1": 1366.4629139393328,
+    "target_2": 1415.7443587019682,
+    "timestamp": "2025-06-15 16:35:40"
+  },
+  {
+    "symbol": "HUHTAMAKI",
+    "setup_type": "double_bottom",
+    "entry_price": 207.49000549316406,
+    "stop_loss": 193.1448759185995,
+    "target_1": 221.83513506772863,
+    "target_2": 229.0076998550109,
+    "timestamp": "2025-06-15 16:35:45"
+  },
+  {
+    "symbol": "HYUNDAI",
+    "setup_type": "double_bottom",
+    "entry_price": 1941.4000244140625,
+    "stop_loss": 1848.2527101056796,
+    "target_1": 2034.5473387224454,
+    "target_2": 2081.1209958766367,
+    "timestamp": "2025-06-15 16:35:46"
+  },
+  {
+    "symbol": "HYUNDAI",
+    "setup_type": "Composite Score",
+    "entry_price": 1941.4000244140625,
+    "stop_loss": 1848.2527101056796,
+    "target_1": 2034.5473387224454,
+    "target_2": 2081.1209958766367,
+    "timestamp": "2025-06-15 16:35:46"
+  },
+  {
+    "symbol": "ICICIGI",
+    "setup_type": "double_bottom",
+    "entry_price": 1940.699951171875,
+    "stop_loss": 1839.673839511499,
+    "target_1": 2041.726062832251,
+    "target_2": 2092.239118662439,
+    "timestamp": "2025-06-15 16:35:50"
+  },
+  {
+    "symbol": "ICICIGI",
+    "setup_type": "Composite Score",
+    "entry_price": 1940.699951171875,
+    "stop_loss": 1839.673839511499,
+    "target_1": 2041.726062832251,
+    "target_2": 2092.239118662439,
+    "timestamp": "2025-06-15 16:35:50"
+  },
+  {
+    "symbol": "IDEAFORGE",
+    "setup_type": "double_bottom",
+    "entry_price": 590.0499877929688,
+    "stop_loss": 528.0250195510624,
+    "target_1": 652.0749560348751,
+    "target_2": 683.0874401558283,
+    "timestamp": "2025-06-15 16:35:54"
+  },
+  {
+    "symbol": "IDFCFIRSTB",
+    "setup_type": "double_bottom",
+    "entry_price": 70.44000244140625,
+    "stop_loss": 66.92854271212171,
+    "target_1": 73.95146217069079,
+    "target_2": 75.70719203533305,
+    "timestamp": "2025-06-15 16:35:55"
+  },
+  {
+    "symbol": "IGIL",
+    "setup_type": "double_bottom",
+    "entry_price": 386.75,
+    "stop_loss": 356.1142875311417,
+    "target_1": 417.3857124688583,
+    "target_2": 432.70356870328743,
+    "timestamp": "2025-06-15 16:35:58"
+  },
+  {
+    "symbol": "IIFLCAPS",
+    "setup_type": "double_bottom",
+    "entry_price": 335.6499938964844,
+    "stop_loss": 305.8269879709644,
+    "target_1": 365.47299982200434,
+    "target_2": 380.3845027847643,
+    "timestamp": "2025-06-15 16:36:03"
+  },
+  {
+    "symbol": "IIFLCAPS",
+    "setup_type": "Composite Score",
+    "entry_price": 335.6499938964844,
+    "stop_loss": 305.8269879709644,
+    "target_1": 365.47299982200434,
+    "target_2": 380.3845027847643,
+    "timestamp": "2025-06-15 16:36:03"
+  },
+  {
+    "symbol": "IIFL",
+    "setup_type": "double_bottom",
+    "entry_price": 469.04998779296875,
+    "stop_loss": 439.28210021085886,
+    "target_1": 498.81787537507864,
+    "target_2": 513.7018191661335,
+    "timestamp": "2025-06-15 16:36:04"
+  },
+  {
+    "symbol": "IKS",
+    "setup_type": "double_bottom",
+    "entry_price": 1745.5,
+    "stop_loss": 1604.6186567505447,
+    "target_1": 1886.3813432494553,
+    "target_2": 1956.822014874183,
+    "timestamp": "2025-06-15 16:36:06"
+  },
+  {
+    "symbol": "IKS",
+    "setup_type": "Composite Score",
+    "entry_price": 1745.5,
+    "stop_loss": 1604.6186567505447,
+    "target_1": 1886.3813432494553,
+    "target_2": 1956.822014874183,
+    "timestamp": "2025-06-15 16:36:06"
+  },
+  {
+    "symbol": "IMFA",
+    "setup_type": "double_bottom",
+    "entry_price": 715.0499877929688,
+    "stop_loss": 660.9422414466857,
+    "target_1": 769.1577341392518,
+    "target_2": 796.2116073123933,
+    "timestamp": "2025-06-15 16:36:07"
+  },
+  {
+    "symbol": "IMFA",
+    "setup_type": "Composite Score",
+    "entry_price": 715.0499877929688,
+    "stop_loss": 660.9422414466857,
+    "target_1": 769.1577341392518,
+    "target_2": 796.2116073123933,
+    "timestamp": "2025-06-15 16:36:07"
+  },
+  {
+    "symbol": "IMAGICAA",
+    "setup_type": "double_bottom",
+    "entry_price": 69.87000274658203,
+    "stop_loss": 64.10419747639813,
+    "target_1": 75.63580801676594,
+    "target_2": 78.51871065185787,
+    "timestamp": "2025-06-15 16:36:07"
+  },
+  {
+    "symbol": "INDIAGLYCO",
+    "setup_type": "double_bottom",
+    "entry_price": 1889.5,
+    "stop_loss": 1740.8046807858793,
+    "target_1": 2038.1953192141207,
+    "target_2": 2112.542978821181,
+    "timestamp": "2025-06-15 16:36:11"
+  },
+  {
+    "symbol": "INDGN",
+    "setup_type": "double_bottom",
+    "entry_price": 599.25,
+    "stop_loss": 556.3726613932047,
+    "target_1": 642.1273386067953,
+    "target_2": 663.566007910193,
+    "timestamp": "2025-06-15 16:36:12"
+  },
+  {
+    "symbol": "INDIANB",
+    "setup_type": "double_bottom",
+    "entry_price": 624.8499755859375,
+    "stop_loss": 590.4259165474975,
+    "target_1": 659.2740346243775,
+    "target_2": 676.4860641435974,
+    "timestamp": "2025-06-15 16:36:12"
+  },
+  {
+    "symbol": "INDIANB",
+    "setup_type": "Composite Score",
+    "entry_price": 624.8499755859375,
+    "stop_loss": 590.4259165474975,
+    "target_1": 659.2740346243775,
+    "target_2": 676.4860641435974,
+    "timestamp": "2025-06-15 16:36:12"
+  },
+  {
+    "symbol": "INDIAMART",
+    "setup_type": "double_bottom",
+    "entry_price": 2468.699951171875,
+    "stop_loss": 2332.442609876929,
+    "target_1": 2604.957292466821,
+    "target_2": 2673.085963114294,
+    "timestamp": "2025-06-15 16:36:14"
+  },
+  {
+    "symbol": "INDIAMART",
+    "setup_type": "Composite Score",
+    "entry_price": 2468.699951171875,
+    "stop_loss": 2332.442609876929,
+    "target_1": 2604.957292466821,
+    "target_2": 2673.085963114294,
+    "timestamp": "2025-06-15 16:36:14"
+  },
+  {
+    "symbol": "INDIASHLTR",
+    "setup_type": "double_bottom",
+    "entry_price": 883.1500244140625,
+    "stop_loss": 827.0134949923329,
+    "target_1": 939.2865538357921,
+    "target_2": 967.3548185466569,
+    "timestamp": "2025-06-15 16:36:17"
+  },
+  {
+    "symbol": "INDOAMIN",
+    "setup_type": "double_bottom",
+    "entry_price": 151.91000366210938,
+    "stop_loss": 138.92169164719246,
+    "target_1": 164.8983156770263,
+    "target_2": 171.39247168448472,
+    "timestamp": "2025-06-15 16:36:20"
+  },
+  {
+    "symbol": "INDOCO",
+    "setup_type": "double_bottom",
+    "entry_price": 280.70001220703125,
+    "stop_loss": 255.92437264524457,
+    "target_1": 305.4756517688179,
+    "target_2": 317.8634715497112,
+    "timestamp": "2025-06-15 16:36:21"
+  },
+  {
+    "symbol": "INDOFARM",
+    "setup_type": "double_bottom",
+    "entry_price": 172.0,
+    "stop_loss": 164.3804756439471,
+    "target_1": 179.6195243560529,
+    "target_2": 183.42928653407935,
+    "timestamp": "2025-06-15 16:36:22"
+  },
+  {
+    "symbol": "INDSWFTLAB",
+    "setup_type": "double_bottom",
+    "entry_price": 108.56999969482422,
+    "stop_loss": 95.7401702048885,
+    "target_1": 121.39982918475994,
+    "target_2": 127.8147439297278,
+    "timestamp": "2025-06-15 16:36:27"
+  },
+  {
+    "symbol": "INDSWFTLAB",
+    "setup_type": "Composite Score",
+    "entry_price": 108.56999969482422,
+    "stop_loss": 95.7401702048885,
+    "target_1": 121.39982918475994,
+    "target_2": 127.8147439297278,
+    "timestamp": "2025-06-15 16:36:27"
+  },
+  {
+    "symbol": "INFY",
+    "setup_type": "double_bottom",
+    "entry_price": 1602.0,
+    "stop_loss": 1538.2158399945956,
+    "target_1": 1665.7841600054044,
+    "target_2": 1697.6762400081063,
+    "timestamp": "2025-06-15 16:36:31"
+  },
+  {
+    "symbol": "INFY",
+    "setup_type": "Composite Score",
+    "entry_price": 1602.0,
+    "stop_loss": 1538.2158399945956,
+    "target_1": 1665.7841600054044,
+    "target_2": 1697.6762400081063,
+    "timestamp": "2025-06-15 16:36:31"
+  },
+  {
+    "symbol": "INDUSINDBK",
+    "setup_type": "double_bottom",
+    "entry_price": 816.8499755859375,
+    "stop_loss": 769.0633420959899,
+    "target_1": 864.6366090758851,
+    "target_2": 888.5299258208589,
+    "timestamp": "2025-06-15 16:36:32"
+  },
+  {
+    "symbol": "INTELLECT",
+    "setup_type": "double_bottom",
+    "entry_price": 1187.9000244140625,
+    "stop_loss": 1093.893598852957,
+    "target_1": 1281.906449975168,
+    "target_2": 1328.9096627557208,
+    "timestamp": "2025-06-15 16:36:37"
+  },
+  {
+    "symbol": "INTELLECT",
+    "setup_type": "Composite Score",
+    "entry_price": 1187.9000244140625,
+    "stop_loss": 1093.893598852957,
+    "target_1": 1281.906449975168,
+    "target_2": 1328.9096627557208,
+    "timestamp": "2025-06-15 16:36:37"
+  },
+  {
+    "symbol": "INTERARCH",
+    "setup_type": "double_bottom",
+    "entry_price": 2166.199951171875,
+    "stop_loss": 1966.853799479787,
+    "target_1": 2365.546102863963,
+    "target_2": 2465.219178710007,
+    "timestamp": "2025-06-15 16:36:38"
+  },
+  {
+    "symbol": "INTLCONV",
+    "setup_type": "double_bottom",
+    "entry_price": 85.5,
+    "stop_loss": 79.05772276632699,
+    "target_1": 91.94227723367301,
+    "target_2": 95.16341585050951,
+    "timestamp": "2025-06-15 16:36:38"
+  },
+  {
+    "symbol": "INTLCONV",
+    "setup_type": "Composite Score",
+    "entry_price": 85.5,
+    "stop_loss": 79.05772276632699,
+    "target_1": 91.94227723367301,
+    "target_2": 95.16341585050951,
+    "timestamp": "2025-06-15 16:36:38"
+  },
+  {
+    "symbol": "IOLCP",
+    "setup_type": "double_bottom",
+    "entry_price": 88.75,
+    "stop_loss": 81.23923566085637,
+    "target_1": 96.26076433914363,
+    "target_2": 100.01614650871545,
+    "timestamp": "2025-06-15 16:36:44"
+  },
+  {
+    "symbol": "IPL",
+    "setup_type": "double_bottom",
+    "entry_price": 209.00999450683594,
+    "stop_loss": 188.83780486469502,
+    "target_1": 229.18218414897686,
+    "target_2": 239.26827897004733,
+    "timestamp": "2025-06-15 16:36:45"
+  },
+  {
+    "symbol": "IRCON",
+    "setup_type": "double_bottom",
+    "entry_price": 202.36000061035156,
+    "stop_loss": 183.1629410789355,
+    "target_1": 221.55706014176764,
+    "target_2": 231.15558990747564,
+    "timestamp": "2025-06-15 16:36:47"
+  },
+  {
+    "symbol": "IRISDOREME",
+    "setup_type": "double_bottom",
+    "entry_price": 59.709999084472656,
+    "stop_loss": 54.550903370588756,
+    "target_1": 64.86909479835656,
+    "target_2": 67.4486426552985,
+    "timestamp": "2025-06-15 16:36:49"
+  },
+  {
+    "symbol": "ISGEC",
+    "setup_type": "double_bottom",
+    "entry_price": 1241.0,
+    "stop_loss": 1149.3318142515102,
+    "target_1": 1332.6681857484898,
+    "target_2": 1378.5022786227346,
+    "timestamp": "2025-06-15 16:36:50"
+  },
+  {
+    "symbol": "IRMENERGY",
+    "setup_type": "double_bottom",
+    "entry_price": 295.04998779296875,
+    "stop_loss": 273.3092269886308,
+    "target_1": 316.7907485973067,
+    "target_2": 327.6611289994756,
+    "timestamp": "2025-06-15 16:36:50"
+  },
+  {
+    "symbol": "ITDCEM",
+    "setup_type": "double_bottom",
+    "entry_price": 769.8499755859375,
+    "stop_loss": 702.2584859706318,
+    "target_1": 837.4414652012432,
+    "target_2": 871.237210008896,
+    "timestamp": "2025-06-15 16:36:52"
+  },
+  {
+    "symbol": "ITDCEM",
+    "setup_type": "Composite Score",
+    "entry_price": 769.8499755859375,
+    "stop_loss": 702.2584859706318,
+    "target_1": 837.4414652012432,
+    "target_2": 871.237210008896,
+    "timestamp": "2025-06-15 16:36:52"
+  },
+  {
+    "symbol": "ITCHOTELS",
+    "setup_type": "double_bottom",
+    "entry_price": 213.6999969482422,
+    "stop_loss": 200.67035821830794,
+    "target_1": 226.72963567817644,
+    "target_2": 233.24445504314355,
+    "timestamp": "2025-06-15 16:36:52"
+  },
+  {
+    "symbol": "ITI",
+    "setup_type": "double_bottom",
+    "entry_price": 321.54998779296875,
+    "stop_loss": 295.0059750953372,
+    "target_1": 348.0940004906003,
+    "target_2": 361.36600683941606,
+    "timestamp": "2025-06-15 16:36:54"
+  },
+  {
+    "symbol": "IXIGO",
+    "setup_type": "double_bottom",
+    "entry_price": 187.4600067138672,
+    "stop_loss": 170.40941125237973,
+    "target_1": 204.51060217535465,
+    "target_2": 213.0358999060984,
+    "timestamp": "2025-06-15 16:36:58"
+  },
+  {
+    "symbol": "IXIGO",
+    "setup_type": "Composite Score",
+    "entry_price": 187.4600067138672,
+    "stop_loss": 170.40941125237973,
+    "target_1": 204.51060217535465,
+    "target_2": 213.0358999060984,
+    "timestamp": "2025-06-15 16:36:58"
+  },
+  {
+    "symbol": "J&KBANK",
+    "setup_type": "double_bottom",
+    "entry_price": 104.80000305175781,
+    "stop_loss": 97.65591270258683,
+    "target_1": 111.9440934009288,
+    "target_2": 115.51613857551428,
+    "timestamp": "2025-06-15 16:36:59"
+  },
+  {
+    "symbol": "JAGSNPHARM",
+    "setup_type": "double_bottom",
+    "entry_price": 232.9499969482422,
+    "stop_loss": 212.48499610864826,
+    "target_1": 253.4149977878361,
+    "target_2": 263.6474982076331,
+    "timestamp": "2025-06-15 16:37:00"
+  },
+  {
+    "symbol": "JAICORPLTD",
+    "setup_type": "double_bottom",
+    "entry_price": 114.04000091552734,
+    "stop_loss": 103.34288224357898,
+    "target_1": 124.7371195874757,
+    "target_2": 130.08567892344988,
+    "timestamp": "2025-06-15 16:37:00"
+  },
+  {
+    "symbol": "JBCHEPHARM",
+    "setup_type": "double_bottom",
+    "entry_price": 1734.4000244140625,
+    "stop_loss": 1642.7579528914018,
+    "target_1": 1826.0420959367232,
+    "target_2": 1871.8631316980534,
+    "timestamp": "2025-06-15 16:37:05"
+  },
+  {
+    "symbol": "JAYSREETEA",
+    "setup_type": "double_bottom",
+    "entry_price": 110.5,
+    "stop_loss": 101.34985612226819,
+    "target_1": 119.65014387773181,
+    "target_2": 124.22521581659771,
+    "timestamp": "2025-06-15 16:37:05"
+  },
+  {
+    "symbol": "JGCHEM",
+    "setup_type": "double_bottom",
+    "entry_price": 386.04998779296875,
+    "stop_loss": 351.05737346777494,
+    "target_1": 421.04260211816256,
+    "target_2": 438.53890928075947,
+    "timestamp": "2025-06-15 16:37:10"
+  },
+  {
+    "symbol": "JIOFIN",
+    "setup_type": "double_bottom",
+    "entry_price": 294.04998779296875,
+    "stop_loss": 279.0182447323378,
+    "target_1": 309.0817308535997,
+    "target_2": 316.59760238391516,
+    "timestamp": "2025-06-15 16:37:12"
+  },
+  {
+    "symbol": "JKCEMENT",
+    "setup_type": "double_bottom",
+    "entry_price": 6082.5,
+    "stop_loss": 5727.013972464496,
+    "target_1": 6437.986027535504,
+    "target_2": 6615.729041303256,
+    "timestamp": "2025-06-15 16:37:14"
+  }
+]7:14"
+  }
+]
