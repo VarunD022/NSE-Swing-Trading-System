@@ -1,10 +1,16 @@
 #!/bin/bash
 
+# Update package lists
+apt-get update
+
+# Install system dependencies
+apt-get install -y python3.9 python3.9-dev python3-pip build-essential libssl-dev libffi-dev python3-setuptools libxml2-dev libxslt1-dev zlib1g-dev
+
 # Create necessary directories
 mkdir -p signals
 
 # Install Python dependencies
-pip install -r requirements.txt
+pip install --no-cache-dir -r requirements.txt
 
 # Create empty entry_signals.json if it doesn't exist
 if [ ! -f "signals/entry_signals.json" ]; then
