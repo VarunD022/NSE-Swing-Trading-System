@@ -23,6 +23,8 @@ from functools import lru_cache
 import threading
 from queue import Queue
 from swing_setup_extension import detect_swing_setups, generate_entry_exit_levels, log_entry_signal
+from main import NSESwingTradingSystem
+
 
 # Suppress warnings
 warnings.filterwarnings("ignore")
