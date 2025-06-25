@@ -1,14 +1,23 @@
 #!/bin/bash
+set -e
+set -x
 
-# Update package lists
-apt-get update
+# Install core build tools
+apt-get update && apt-get install -y \
+    build-essential \
+    wget \
+    python3.9 \
+    python3.9-dev \
+    python3-pip \
+    libffi-dev \
+    libssl-dev \
+    libxml2-dev \
+    libxslt1-dev \
+    zlib1g-dev \
+    python3-setuptools \
+    tar
 
-# Install system dependencies (TA-Lib dependencies included)
-apt-get install -y python3.9 python3.9-dev python3-pip build-essential \
-    libssl-dev libffi-dev python3-setuptools libxml2-dev \
-    libxslt1-dev zlib1g-dev wget tar
-
-# Download and build TA-Lib from source
+# Build TA-Lib from source
 cd /tmp
 wget http://prdownloads.sourceforge.net/ta-lib/ta-lib-0.4.0-src.tar.gz
 tar -xvzf ta-lib-0.4.0-src.tar.gz
@@ -17,19 +26,22 @@ cd ta-lib
 make
 make install
 
-# Return to app directory
+# Go back to app directory
 cd /mount/src/nse-swing-trading-system
 
-# Install Python dependencies
-pip install --no-cache-dir -r requirements.txt
+# Install all Python dependencies *except* ta-lib
+pip install --no-cache-dir -r <(grep -v "ta-lib" requirements.txt)
 
-# Create necessary directories and files
+# Install ta-lib Python wrapper separately
+pip install --no-cache-dir ta-lib==0.4.0
+
+# Prepare app files
 mkdir -p signals
 if [ ! -f "signals/entry_signals.json" ]; then
     echo "{}" > signals/entry_signals.json
 fi
 
-chmod 644 signals/entry_signals.json
-chmod 644 EQUITY_L.csv
+chmod 644 signals/entry_signals.json || true
+chmod 644 EQUITY_L.csv || true
 
-echo "✅ TA-Lib installed and setup completed!"
+echo "✅ Setup finished successfully"
