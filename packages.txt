@@ -8,3 +8,6 @@ python3-setuptools
 libxml2-dev
 libxslt1-dev
 zlib1g-dev 
+libta-lib0
+ta-lib
+
